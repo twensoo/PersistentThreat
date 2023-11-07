@@ -10,6 +10,8 @@ RedTeam link
 ### [SHEET_4](https://github.com/th1k/ebooks)
 ### [SHEET_5](https://sushant747.gitbooks.io/total-oscp-guide/content/)
 
+________________________________________________________________________________________________
+
 ##  суть RT
 
 -https://mitre-attack.github.io/ Краткое изложение вики технологии атак от организации miter Technology
