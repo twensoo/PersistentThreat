@@ -14,129 +14,129 @@ ________________________________________________________________________________
 
 ##  суть RT
 
--https://mitre-attack.github.io Краткое изложение вики технологии атак от организации miter Technology
--https://huntingday.github.io MITER | ATT & CK Chinese station
--https://arxiv.org Корнельский университет (Cornell University) Открытый документ
--http://www.owasp.org.cn/owasp-project/owasp-things проект OWASP
--http://www.irongeek.com/i.php? page = security / hackingillustrated Видео и документы, относящиеся к конференциям по безопасности в стране и за рубежом
--https://github.com/knownsec/KCon Статья конференции KCon PPT
--https://github.com/SecWiki/sec-chart Коллекция различных интеллектуальных карт, связанных с безопасностью.
--https://github.com/knownsec/RD_Checklist Знайте список навыков Чуанъюй
--https://github.com/ChrisLinn/greyhame-2017 Книга навыков серого мантии, версия 2017 г.
--https://github.com/Hack-with-Github/Awesome-Hacking Рекомендация GitHub Wanxing: список методов роста хакеров.
--https://github.com/k4m4/movies-for-hackers фильмы, связанные с безопасностью
--https://github.com/jaredthecoder/awesome-vehicle-security Список ресурсов по безопасности транспортных средств и взлому автомобилей
--https://www.jianshu.com/p/852e0fbe2f4c Классификация производителя продуктов безопасности
--https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/ Видео о машинном обучении MIT
--https://github.com/fxsjy/jieba py, заикание сегментации китайских слов
--https://github.com/thunlp/THULAC-Python py, сегментация китайского слова Цинхуа
--https://github.com/lancopku/PKUSeg-python py3, сегментация китайского слова Пекинского университета
--https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes Заметки Ву Энды о машинном обучении Python
--https://paperswithcode.com/sota Проекты, демонстрации, коды машинного обучения.
--https://github.com/duoergun0729/nlp Вводная книга по НЛП (нейронное лингвистическое программирование) с открытым исходным кодом.
--https://www.freebuf.com/articles/web/195304.html Подпрограмма троянского коня из одного предложения
+- https://mitre-attack.github.io Краткое изложение вики технологии атак от организации miter Technology
+- https://huntingday.github.io MITER | ATT & CK Chinese station
+- https://arxiv.org Корнельский университет (Cornell University) Открытый документ
+- http://www.owasp.org.cn/owasp-project/owasp-things проект OWASP
+- http://www.irongeek.com/i.php? page = security / hackingillustrated Видео и документы, относящиеся к конференциям по безопасности в стране и за рубежом
+- https://github.com/knownsec/KCon Статья конференции KCon PPT
+- https://github.com/SecWiki/sec-chart Коллекция различных интеллектуальных карт, связанных с безопасностью.
+- https://github.com/knownsec/RD_Checklist Знайте список навыков Чуанъюй
+- https://github.com/ChrisLinn/greyhame-2017 Книга навыков серого мантии, версия 2017 г.
+- https://github.com/Hack-with-Github/Awesome-Hacking Рекомендация GitHub Wanxing: список методов роста хакеров.
+- https://github.com/k4m4/movies-for-hackers фильмы, связанные с безопасностью
+- https://github.com/jaredthecoder/awesome-vehicle-security Список ресурсов по безопасности транспортных средств и взлому автомобилей
+- https://www.jianshu.com/p/852e0fbe2f4c Классификация производителя продуктов безопасности
+- https://www.reddit.com/r/Python/comments/a81mg3/the_entire_mit_intro_computer_science_class_using/ Видео о машинном обучении MIT
+- https://github.com/fxsjy/jieba py, заикание сегментации китайских слов
+- https://github.com/thunlp/THULAC-Python py, сегментация китайского слова Цинхуа
+- https://github.com/lancopku/PKUSeg-python py3, сегментация китайского слова Пекинского университета
+- https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes Заметки Ву Энды о машинном обучении Python
+- https://paperswithcode.com/sota Проекты, демонстрации, коды машинного обучения.
+- https://github.com/duoergun0729/nlp Вводная книга по НЛП (нейронное лингвистическое программирование) с открытым исходным кодом.
+- https://www.freebuf.com/articles/web/195304.html Подпрограмма троянского коня из одного предложения
 
 ## Наступательные и защитные испытания
 
 #### серии статей
 
--https://micropoor.blogspot.com/2019/01/php8.html Новости безопасности PHP, серия курсов 8 часов утра, высокая степень непрерывного проникновения - Microporor
--https://github.com/Micropoor/Micro8 Microporor Advanced Attack and Defense 100 Class
--https://github.com/maskhed/Papers Содержит 100 уроков и другие классические учебники по атаке и защите, а также знания по безопасности.
--https://github.com/infosecn1nja/AD-Attack-Defense Red and Blue Team Attack and Defense Manual
--https://github.com/yeyintminthuhtut/Awesome-Red-Teaming отличный красный список ресурсов команды
--https://github.com/foobarto/redteam-notebook Стандартный процесс тестирования на проникновение Red Team + общие команды
--https://github.com/tom0li/collection-document Сборник статей: Министерство безопасности, SDL, src, тестирование на проникновение, эксплойты
--https://github.com/kbandla/APTnotes Различные общедоступные документы и соответствующие примечания APT, а также образцы программного обеспечения.
--https://wizardforcel.gitbooks.io/web-hacking-101/content Web Hacking 101 китайская версия
--https://techvomit.net/web-application-penetration-testing-notes/ примечания к тесту на проникновение в Интернет
--https://github.com/qazbnm456/awesome-web-security информация о веб-безопасности и список ресурсов
--http://pentestmonkey.net/category/cheat-sheet Общие элементы для тестирования на проникновение
--https://github.com/demonsec666/Security-Toolkit Общие инструменты и сценарии использования в цепочке атак проникновения
--https://github.com/Kinimiwar/Penetration-Testing Коллекция отличных ресурсов для тестирования на проникновение
--https://github.com/jshaw87/Cheatsheets Тест на проникновение / Коды безопасности / Примечания
+- https://micropoor.blogspot.com/2019/01/php8.html Новости безопасности PHP, серия курсов 8 часов утра, высокая степень непрерывного проникновения - Microporor
+- https://github.com/Micropoor/Micro8 Microporor Advanced Attack and Defense 100 Class
+- https://github.com/maskhed/Papers Содержит 100 уроков и другие классические учебники по атаке и защите, а также знания по безопасности.
+- https://github.com/infosecn1nja/AD-Attack-Defense Red and Blue Team Attack and Defense Manual
+- https://github.com/yeyintminthuhtut/Awesome-Red-Teaming отличный красный список ресурсов команды
+- https://github.com/foobarto/redteam-notebook Стандартный процесс тестирования на проникновение Red Team + общие команды
+- https://github.com/tom0li/collection-document Сборник статей: Министерство безопасности, SDL, src, тестирование на проникновение, эксплойты
+- https://github.com/kbandla/APTnotes Различные общедоступные документы и соответствующие примечания APT, а также образцы программного обеспечения.
+- https://wizardforcel.gitbooks.io/web-hacking-101/content Web Hacking 101 китайская версия
+- https://techvomit.net/web-application-penetration-testing-notes/ примечания к тесту на проникновение в Интернет
+- https://github.com/qazbnm456/awesome-web-security информация о веб-безопасности и список ресурсов
+- http://pentestmonkey.net/category/cheat-sheet Общие элементы для тестирования на проникновение
+- https://github.com/demonsec666/Security-Toolkit Общие инструменты и сценарии использования в цепочке атак проникновения
+- https://github.com/Kinimiwar/Penetration-Testing Коллекция отличных ресурсов для тестирования на проникновение
+- https://github.com/jshaw87/Cheatsheets Тест на проникновение / Коды безопасности / Примечания
 
 #### Базовая безопасность
 
--https://book.yunzhan365.com/umta/rtnp/mobile/index.html Буклет по науке о кибербезопасности
--http://sec.cuc.edu.cn/huangwei/textbook/ns/ Электронная версия учебника по сетевой безопасности. Сайт конфиденциального курса по передаче в Китае
--https://mitre.github.io/attack-navigator/enterprise/ miter agency att & ck запись об обнаружении вторжений
--https://github.com/danielmiessler/SecLists типы таблиц включают имя пользователя, пароль, URL-адрес, режим конфиденциальных данных, тестовую загрузку фаззинга, веб-оболочку и т. д.
--https://github.com/GitGuardian/APISecurityBestPractices контрольный список тестирования интерфейса API
--https://github.com/ym2011/SecurityManagement Делитесь частями в процессе создания системы управления безопасностью, ISO27001, уровня защиты и обзора безопасности
--https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q Блокчейн, Контрольный список аудита смарт-контрактов Ethereum
--https://github.com/slowmist/eos-bp-nodes-security-checklist Блокчейн, контрольный список безопасности узлов EOS bp (Руководство по внедрению безопасности EOS Super Nodes)
--https://xz.aliyun.com/t/2089 Контрольный список проектирования безопасности Fintech SDL
--https://github.com/juliocesarfort/public-pentesting-reports Список публичных отчетов о тестах на проникновение, опубликованных несколькими консалтинговыми компаниями и организациями академической безопасности.
--http://www.freebuf.com/articles/network/169632.html Программное обеспечение с открытым исходным кодом создает список SOC
--https://github.com/0xRadi/OWASP-Web-Checklist веб-сайт owasp проверить запись
--https://www.securitypaper.org/ Управление жизненным циклом безопасности разработки SDL
--https://github.com/Jsitech/JShielder Сценарий подкрепления в один клик для сервера под Linux
--https://github.com/wstart/DB_BaseLine Инструмент проверки базовых показателей базы данных
+- https://book.yunzhan365.com/umta/rtnp/mobile/index.html Буклет по науке о кибербезопасности
+- http://sec.cuc.edu.cn/huangwei/textbook/ns/ Электронная версия учебника по сетевой безопасности. Сайт конфиденциального курса по передаче в Китае
+- https://mitre.github.io/attack-navigator/enterprise/ miter agency att & ck запись об обнаружении вторжений
+- https://github.com/danielmiessler/SecLists типы таблиц включают имя пользователя, пароль, URL-адрес, режим конфиденциальных данных, тестовую загрузку фаззинга, веб-оболочку и т. д.
+- https://github.com/GitGuardian/APISecurityBestPractices контрольный список тестирования интерфейса API
+- https://github.com/ym2011/SecurityManagement Делитесь частями в процессе создания системы управления безопасностью, ISO27001, уровня защиты и обзора безопасности
+- https://mp.weixin.qq.com/s/O36e0gl4cs0ErQPsb5L68Q Блокчейн, Контрольный список аудита смарт-контрактов Ethereum
+- https://github.com/slowmist/eos-bp-nodes-security-checklist Блокчейн, контрольный список безопасности узлов EOS bp (Руководство по внедрению безопасности EOS Super Nodes)
+- https://xz.aliyun.com/t/2089 Контрольный список проектирования безопасности Fintech SDL
+- https://github.com/juliocesarfort/public-pentesting-reports Список публичных отчетов о тестах на проникновение, опубликованных несколькими консалтинговыми компаниями и организациями академической безопасности.
+- http://www.freebuf.com/articles/network/169632.html Программное обеспечение с открытым исходным кодом создает список SOC
+- https://github.com/0xRadi/OWASP-Web-Checklist веб-сайт owasp проверить запись
+- https://www.securitypaper.org/ Управление жизненным циклом безопасности разработки SDL
+- https://github.com/Jsitech/JShielder Сценарий подкрепления в один клик для сервера под Linux
+- https://github.com/wstart/DB_BaseLine Инструмент проверки базовых показателей базы данных
 
 #### Учебное пособие
 
--https://github.com/HarmJ0y/CheatSheets Краткое справочное руководство для нескольких проектов (Beacon / Cobalt Strike, PowerView, PowerUp, Empire и PowerSploit)
--https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/ Kali Linux Web Penetration Test Коды для китайской версии
--https://github.com/louchaooo/kali-tools-zh руководство по использованию инструмента Kali
--https://www.offensive-security.com/metasploit-unleashed/ Рекомендации по Metasploit от Кали
--http://www.hackingarticles.in/comprehensive-guide-on-hydra-a-brute-forcing-tool/ Hydra manual
--https://www.gitbook.com/book/t0data/burpsuite/details Практическое руководство по burpsuite
--https://zhuanlan.zhihu.com/p/26618074 Метод использования скрипта расширения Nmap
--https://somdev.me/21-things-xss/ 21 расширенное использование XSS
--https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/ Лист инъекций sql
--https://sqlwiki.netspi.com/ Вы можете найти нужные вам точки знаний о внедрении sql
--https://github.com/kevins1022/SQLInjectionWiki Вики, посвященная агрегированию и записи различных методов SQL-инъекций.
--https://github.com/hardenedlinux/linux-exploit-development-tutorial Введение в разработку эксплойтов для Linux
--https://wizardforcel.gitbooks.io/asani/content Android Security Китайская версия
--https://wizardforcel.gitbooks.io/lpad/content Учебное пособие по тестированию на проникновение Android на китайском языке.
--https://github.com/writeups/ios примечания к описанию уязвимости iOS
--http://blog.safebuff.com/2016/07/03/SSRF-Tips/ руководство по эксплуатации уязвимости ssrf
+- https://github.com/HarmJ0y/CheatSheets Краткое справочное руководство для нескольких проектов (Beacon / Cobalt Strike, PowerView, PowerUp, Empire и PowerSploit)
+- https://wizardforcel.gitbooks.io/kali-linux-web-pentest-cookbook/content/ Kali Linux Web Penetration Test Коды для китайской версии
+- https://github.com/louchaooo/kali-tools-zh руководство по использованию инструмента Kali
+- https://www.offensive-security.com/metasploit-unleashed/ Рекомендации по Metasploit от Кали
+- http://www.hackingarticles.in/comprehensive-guide-on-hydra-a-brute-forcing-tool/ Hydra manual
+- https://www.gitbook.com/book/t0data/burpsuite/details Практическое руководство по burpsuite
+- https://zhuanlan.zhihu.com/p/26618074 Метод использования скрипта расширения Nmap
+- https://somdev.me/21-things-xss/ 21 расширенное использование XSS
+- https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/ Лист инъекций sql
+- https://sqlwiki.netspi.com/ Вы можете найти нужные вам точки знаний о внедрении sql
+- https://github.com/kevins1022/SQLInjectionWiki Вики, посвященная агрегированию и записи различных методов SQL-инъекций.
+- https://github.com/hardenedlinux/linux-exploit-development-tutorial Введение в разработку эксплойтов для Linux
+- https://wizardforcel.gitbooks.io/asani/content Android Security Китайская версия
+- https://wizardforcel.gitbooks.io/lpad/content Учебное пособие по тестированию на проникновение Android на китайском языке.
+- https://github.com/writeups/ios примечания к описанию уязвимости iOS
+- http://blog.safebuff.com/2016/07/03/SSRF-Tips/ руководство по эксплуатации уязвимости ssrf
 
 #### Учебный полигоны
 
--https://www.blackmoreops.com/2018/11/06/124-legal-hacking-websites-to-practice-and-learn/ 124 юридических веб-сайта, на которых можно практиковать методы взлома.
--https://www.zhihu.com/question/267204109 Изучите веб-безопасность. Где я могу найти различные полигоны?
--[https://www.vulnhub.com](https://www.vulnhub.com/) Обзор многих дронов ctf
--[https://www.wechall.net](https://www.wechall.net/) Всемирно известный сайт обмена сводками ctf
--[https://www.xssgame.com](https://www.xssgame.com/) Google XSS Challenge
--[http://xss.tv](http://xss.tv/) Вызов онлайн-тира
--[https://www.hackthebox.eu](https://www.hackthebox.eu/) Вызов онлайн-тира
--[https://www.root-me.org](https://www.root-me.org/) Online Shooting Range Challenge.
--[http://www.itsecgames.com](http://www.itsecgames.com/) bWAPP, содержит более 100 уязвимых сред
--https://github.com/c0ny1/vulstudy Сводка Docker по системам воспроизведения множественных уязвимостей
--https://github.com/bkimminich/juice-shop Общий рынок диапазона экспериментов по веб-безопасности
--https://github.com/ethicalhack3r/DVWA экспериментальный тир веб-безопасности
--https://www.freebuf.com/articles/web/123779.html Руководство для новичков: Полноуровневое руководство по DVWA-1.9
--https://github.com/78778443/permeate php, дальность стрельбы по распространенным уязвимостям
--https://github.com/gh0stkey/DoraBox php, дальность стрельбы по распространенным уязвимостям
--https://github.com/stamparm/DSVW py2, дальность стрельбы по распространенным уязвимостям
--https://github.com/amolnaik4/bodhi py, дальность стрельбы по общей уязвимости
--https://github.com/Safflower/Solve-Me php, исходный код тира ctf с частичным аудитом кода в Корее
--https://github.com/WebGoat/WebGoat Пакет jar в один клик, экспериментальный тир для веб-безопасности
--https://github.com/Audi-1/sqli-labs Диапазон обучения SQL-инъекциям на основе SQLite
--https://github.com/lcamry/sqli-labs Демонстрация методов внедрения, связанных с MySQL, через sqli-labs
--https://github.com/c0ny1/upload-labs Тир, который поможет вам обобщить все типы уязвимостей загрузки.
--https://github.com/LandGrey/upload-labs-writeup инструкция по загрузке лабораторий
--https://github.com/Go0s/LFIboomCTF локальный файл содержит уязвимости && Соглашение об использовании PHP && Исходный код практики
--https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/ Файл виртуальной машины для упражнений по повышению привилегий в Linux.
--https://github.com/OWASP/igoat Учебный инструмент для тестирования приложений iOS и безопасности.
--https://github.com/prateek147/DVIA-v2 Инструмент обучения для тестирования приложений iOS и безопасности.
--https://github.com/rapid7/metasploitable3 система практики metasploit
--https://github.com/rapid7/metasploit-vulnerability-emulator Среда моделирования Metasploit на основе Perl, практика работы
--https://github.com/chryzsh/DarthSidious Построение среды домена AD, проникновение и защита
--https://github.com/c0ny1/xxe-lab Демонстрация уязвимости XXE, содержащая различные языковые версии, такие как php, java, python, C # и т. д.
--https://www.hackthebox.eu // Европейский тир HTB, реальная онлайн-среда
--https://www.root-me.org // Русский тир. В сети. Community Edition
--https://lab.pentestit.ru // Российский тир, реальная среда. В сети. Коммерческая версия.
--https://www.offensive-security.com/information-security-certifications/ // Сертификация наступательных и защитных технологий Kali. Коммерческая версия.
--https://www.pentesteracademy.com // Набор обучающих программ + видео + лабораторные + сертификационные тренинги. Коммерческая версия.
--https://www.cybrary.it // Сертификация инженера по сетевой безопасности. CTF / Labs
--https://www.wechall.net // всемирно известный сайт обмена сводками ctf
--https://www.ichunqiu.com/experiment/direction // i Chunqiu Laboratory. Веб / хост / приложение / pwn руководство
--https://www.mozhe.cn/bug // Онлайн-тир Може Академии. Веб / Хост / База данных / Криминалистика
--https://www.xssgame.com // Google XSS Challenge
--http://xss.tv // Тир онлайн
+- https://www.blackmoreops.com/2018/11/06/124-legal-hacking-websites-to-practice-and-learn/ 124 юридических веб-сайта, на которых можно практиковать методы взлома.
+- https://www.zhihu.com/question/267204109 Изучите веб-безопасность. Где я могу найти различные полигоны?
+- [https://www.vulnhub.com](https://www.vulnhub.com/) Обзор многих дронов ctf
+- [https://www.wechall.net](https://www.wechall.net/) Всемирно известный сайт обмена сводками ctf
+- [https://www.xssgame.com](https://www.xssgame.com/) Google XSS Challenge
+- [http://xss.tv](http://xss.tv/) Вызов онлайн-тира
+- [https://www.hackthebox.eu](https://www.hackthebox.eu/) Вызов онлайн-тира
+- [https://www.root-me.org](https://www.root-me.org/) Online Shooting Range Challenge.
+- [http://www.itsecgames.com](http://www.itsecgames.com/) bWAPP, содержит более 100 уязвимых сред
+- https://github.com/c0ny1/vulstudy Сводка Docker по системам воспроизведения множественных уязвимостей
+- https://github.com/bkimminich/juice-shop Общий рынок диапазона экспериментов по веб-безопасности
+- https://github.com/ethicalhack3r/DVWA экспериментальный тир веб-безопасности
+- https://www.freebuf.com/articles/web/123779.html Руководство для новичков: Полноуровневое руководство по DVWA-1.9
+- https://github.com/78778443/permeate php, дальность стрельбы по распространенным уязвимостям
+- https://github.com/gh0stkey/DoraBox php, дальность стрельбы по распространенным уязвимостям
+- https://github.com/stamparm/DSVW py2, дальность стрельбы по распространенным уязвимостям
+- https://github.com/amolnaik4/bodhi py, дальность стрельбы по общей уязвимости
+- https://github.com/Safflower/Solve-Me php, исходный код тира ctf с частичным аудитом кода в Корее
+- https://github.com/WebGoat/WebGoat Пакет jar в один клик, экспериментальный тир для веб-безопасности
+- https://github.com/Audi-1/sqli-labs Диапазон обучения SQL-инъекциям на основе SQLite
+- https://github.com/lcamry/sqli-labs Демонстрация методов внедрения, связанных с MySQL, через sqli-labs
+- https://github.com/c0ny1/upload-labs Тир, который поможет вам обобщить все типы уязвимостей загрузки.
+- https://github.com/LandGrey/upload-labs-writeup инструкция по загрузке лабораторий
+- https://github.com/Go0s/LFIboomCTF локальный файл содержит уязвимости && Соглашение об использовании PHP && Исходный код практики
+- https://in.security/lin-security-practise-your-linux-privilege-escalation-foo/ Файл виртуальной машины для упражнений по повышению привилегий в Linux.
+- https://github.com/OWASP/igoat Учебный инструмент для тестирования приложений iOS и безопасности.
+- https://github.com/prateek147/DVIA-v2 Инструмент обучения для тестирования приложений iOS и безопасности.
+- https://github.com/rapid7/metasploitable3 система практики metasploit
+- https://github.com/rapid7/metasploit-vulnerability-emulator Среда моделирования Metasploit на основе Perl, практика работы
+- https://github.com/chryzsh/DarthSidious Построение среды домена AD, проникновение и защита
+- https://github.com/c0ny1/xxe-lab Демонстрация уязвимости XXE, содержащая различные языковые версии, такие как php, java, python, C # и т. д.
+- https://www.hackthebox.eu // Европейский тир HTB, реальная онлайн-среда
+- https://www.root-me.org // Русский тир. В сети. Community Edition
+- https://lab.pentestit.ru // Российский тир, реальная среда. В сети. Коммерческая версия.
+- https://www.offensive-security.com/information-security-certifications/ // Сертификация наступательных и защитных технологий Kali. Коммерческая версия.
+- https://www.pentesteracademy.com // Набор обучающих программ + видео + лабораторные + сертификационные тренинги. Коммерческая версия.
+- https://www.cybrary.it // Сертификация инженера по сетевой безопасности. CTF / Labs
+- https://www.wechall.net // всемирно известный сайт обмена сводками ctf
+- https://www.ichunqiu.com/experiment/direction // i Chunqiu Laboratory. Веб / хост / приложение / pwn руководство
+- https://www.mozhe.cn/bug // Онлайн-тир Може Академии. Веб / Хост / База данных / Криминалистика
+- https://www.xssgame.com // Google XSS Challenge
+- http://xss.tv // Тир онлайн
 
 #### собрать метаданные и прочую инфу для "пробива" систем.
 
