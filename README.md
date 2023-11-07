@@ -126,460 +126,460 @@ ________________________________________________________________________________
 - https://github.com/rapid7/metasploit-vulnerability-emulator Среда моделирования Metasploit на основе Perl, практика работы
 - https://github.com/chryzsh/DarthSidious Построение среды домена AD, проникновение и защита
 - https://github.com/c0ny1/xxe-lab Демонстрация уязвимости XXE, содержащая различные языковые версии, такие как php, java, python, C # и т. д.
-- https://www.hackthebox.eu // Европейский тир HTB, реальная онлайн-среда
-- https://www.root-me.org // Русский тир. В сети. Community Edition
-- https://lab.pentestit.ru // Российский тир, реальная среда. В сети. Коммерческая версия.
-- https://www.offensive-security.com/information-security-certifications/ // Сертификация наступательных и защитных технологий Kali. Коммерческая версия.
-- https://www.pentesteracademy.com // Набор обучающих программ + видео + лабораторные + сертификационные тренинги. Коммерческая версия.
-- https://www.cybrary.it // Сертификация инженера по сетевой безопасности. CTF / Labs
-- https://www.wechall.net // всемирно известный сайт обмена сводками ctf
-- https://www.ichunqiu.com/experiment/direction // i Chunqiu Laboratory. Веб / хост / приложение / pwn руководство
-- https://www.mozhe.cn/bug // Онлайн-тир Може Академии. Веб / Хост / База данных / Криминалистика
-- https://www.xssgame.com // Google XSS Challenge
-- http://xss.tv // Тир онлайн
+- https://www.hackthebox.eu Европейский тир HTB, реальная онлайн-среда
+- https://www.root-me.org Русский тир. В сети. Community Edition
+- https://lab.pentestit.ru Российский тир, реальная среда. В сети. Коммерческая версия.
+- https://www.offensive-security.com/information-security-certifications Сертификация наступательных и защитных технологий Kali. Коммерческая версия.
+- https://www.pentesteracademy.com Набор обучающих программ + видео + лабораторные + сертификационные тренинги. Коммерческая версия.
+- https://www.cybrary.it Сертификация инженера по сетевой безопасности. CTF / Labs
+- https://www.wechall.net всемирно известный сайт обмена сводками ctf
+- https://www.ichunqiu.com/experiment/direction i Chunqiu Laboratory. Веб / хост / приложение / pwn руководство
+- https://www.mozhe.cn/bug Онлайн-тир Може Академии. Веб / Хост / База данных / Криминалистика
+- https://www.xssgame.com Google XSS Challenge
+- http://xss.tv Тир онлайн
 
 #### собрать метаданные и прочую инфу для "пробива" систем.
 
--https://github.com/smicallef/spiderfoot Использовать OSINT для автоматического поиска информации другой стороны, графического интерфейса пользователя, подключаемого модуля.
--https://github.com/Nhoya/gOSINT перейти, использовать OSINT для автоматического сбора информации
--https://github.com/laramies/theHarvester Enterprise включен в сценарий мониторинга конфиденциальной информации об активах поисковой системы: почтовый ящик сотрудника, поддомен, хосты
--https://github.com/guelfoweb/knock Получение субдоменов с помощью взрыва, которое можно использовать для поиска уязвимостей, связанных с захватом субдоменов.
--https://github.com/aboul3la/Sublist3r Инструмент быстрого подсчета поддоменов через поисковую систему и взрывы
--https://github.com/Ice3man543/subfinder Sublist3r на основе go
--https://github.com/yanxiu0614/subdomain3 py3, поддомен py2, IP, информация о CDN и т. д.
--https://github.com/caffix/amass на основе go, перечисление поддоменов, поиск в источниках данных в Интернете, использование машинного обучения для угадывания поддоменов
--https://github.com/nahamsec/lazyrecon Скрипт автоматизации процесса разведки, который может автоматически использовать Sublist3r / certspotter для получения поддоменов, вызова nmap / dirsearch и т. д.
--https://github.com/s0md3v/ReconDog simple, Швейцарский армейский нож разведывательной информации
--https://github.com/FeeiCN/ESD py3, собирать поддомены путем взрыва
--https://github.com/alpha1e0/pentestdb Многоцелевой интегрированный инструмент сбора информации
--https://github.com/se55i0n/PortScanner py2, быстрое сканирование целевого порта tcp, идентификация баннера, обнаружение cdn
--https://github.com/lijiejie/subDomainsBrute Широко используемый инструмент подсчета взрыва поддоменов, разработанный lijiejie
--https://github.com/ring04h/wydomain, комплексный и точный инструмент для перечисления поддоменов, разработанный Pigman
--https://github.com/n4xh4ck5/N4xD0rk Используйте поисковые системы для сбора поддоменов, вы можете использовать испанский для сбора
--https://github.com/vysec/DomLink py2, позвоните на сайт WHOXY.com для дальнейшего сбора электронных писем и доменных имен.
--https://github.com/jonluca/Anubis py3.6, удаление поддоменов и сбор информации
--https://github.com/le4f/dnsmaper веб-интерфейс, инструмент для поиска поддоменов и маркер местоположения на карте
--https://github.com/thewhiteh4t/seeker Инструмент для получения высокоточной географической информации и информации об оборудовании.
--https://github.com/0xbug/orangescan веб-интерфейс, онлайн-инструмент для сбора информации о субдоменах
--https://github.com/TheRook/subbrute API-библиотека для взрыва субдоменов, обычно используемая в сканерах
--https://github.com/We5ter/GSDF Скрипт запроса субдомена на основе прозрачного сертификата Google SSL
--https://github.com/mandatoryprogrammer/cloudflare_enum Использовать DNS CloudFlare для перечисления поддоменов
--https://github.com/ultrasecurity/webkiller помощь в проникновении, py, информация об IP, отпечаток службы порта, обнаружение приманки, обход облачной вспышки
--https://github.com/christophetd/CloudFlair Обход облачной вспышки, получение реального IP, интеграция censys
--https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker Сбор информации о целевом субдомене несколькими способами
--https://github.com/code-scan/BroDomain запрос субдомена
--https://github.com/michenriksen/aquatone средство перечисления и обнаружения поддоменов. Может использоваться для обнаружения уязвимости, связанной с захватом поддоменов
--https://github.com/chuhades/dnsbrute Go, эффективный инструмент для удаления субдоменов
--https://github.com/evilsocket/dnssearch на основе go, инструмент для удаления субдоменов
--https://github.com/OJ/gobuster На основе go, инструмент для запроса субдоменов и веб-каталогов на основе DNS.
--https://github.com/reconned/domained Инструмент, который можно использовать для сбора поддоменов
--https://github.com/bit4woo/Teemo Инструмент для сбора и перечисления доменных имен с несколькими методами
--https://github.com/swisskyrepo/Перечисление субдоменов субдоменов, сканирование портов, подтверждение выживания службы
--https://github.com/nmalcolm/Inventus Инструмент сбора поддоменов, реализованный поисковым роботом
--https://github.com/alienwithin/OWASP-mth3l3m3nt-framework помощь в проникновении, поиск php, exp, создание полезной нагрузки и оболочки, сбор информации
--https://github.com/chrismaddalena/ODIN py3, простой, сбор информации и последующий эксплойт
--https://github.com/x0day/bannerscan Раздел C / запрос боковой станции и сканирование пути
--https://github.com/Xyntax/BingC Запрос сегмента C / боковой станции на основе поисковой системы Bing, многопоточный, поддержка API
--https://github.com/zer0h/httpscan виджет обнаружения веб-узла сетевого сегмента
--https://github.com/lijiejie/BBScan Сценарий пакетного сканирования раскрытия информации веб-сайта
--https://github.com/aipengjie/sensitivefilescan Инструмент для сканирования конфиденциальных файлов веб-сайтов.
--https://github.com/Mosuan/FileScan сканирование файлов, чувствительных к веб-сайту / вторичное суждение для уменьшения количества ложных срабатываний / регуляризация сканирования содержимого / сканирование нескольких каталогов
--https://github.com/Xyntax/FileSensor инструмент обнаружения файлов, чувствительных к веб-сайту.
--https://github.com/ring04h/weakfilescan Многопоточный инструмент обнаружения утечек веб-сайтов
--https://github.com/Viralmaniar/Passhunt simple, используется для поиска учетных данных по умолчанию сетевых устройств, веб-приложений и т. д. Содержит 2084 пароля по умолчанию от 523 производителей
--https://github.com/yassineaboukir/Asnlookup simple, используйте ASN для поиска определенной организации с IP, которую можно связать с nmap и masscan для дальнейшего сканирования информации
+- https://github.com/smicallef/spiderfoot Использовать OSINT для автоматического поиска информации другой стороны, графического интерфейса пользователя, подключаемого модуля.
+- https://github.com/Nhoya/gOSINT перейти, использовать OSINT для автоматического сбора информации
+- https://github.com/laramies/theHarvester Enterprise включен в сценарий мониторинга конфиденциальной информации об активах поисковой системы: почтовый ящик сотрудника, поддомен, хосты
+- https://github.com/guelfoweb/knock Получение субдоменов с помощью взрыва, которое можно использовать для поиска уязвимостей, связанных с захватом субдоменов.
+- https://github.com/aboul3la/Sublist3r Инструмент быстрого подсчета поддоменов через поисковую систему и взрывы
+- https://github.com/Ice3man543/subfinder Sublist3r на основе go
+- https://github.com/yanxiu0614/subdomain3 py3, поддомен py2, IP, информация о CDN и т. д.
+- https://github.com/caffix/amass на основе go, перечисление поддоменов, поиск в источниках данных в Интернете, использование машинного обучения для угадывания поддоменов
+- https://github.com/nahamsec/lazyrecon Скрипт автоматизации процесса разведки, который может автоматически использовать Sublist3r / certspotter для получения поддоменов, вызова nmap / dirsearch и т. д.
+- https://github.com/s0md3v/ReconDog simple, Швейцарский армейский нож разведывательной информации
+- https://github.com/FeeiCN/ESD py3, собирать поддомены путем взрыва
+- https://github.com/alpha1e0/pentestdb Многоцелевой интегрированный инструмент сбора информации
+- https://github.com/se55i0n/PortScanner py2, быстрое сканирование целевого порта tcp, идентификация баннера, обнаружение cdn
+- https://github.com/lijiejie/subDomainsBrute Широко используемый инструмент подсчета взрыва поддоменов, разработанный lijiejie
+- https://github.com/ring04h/wydomain, комплексный и точный инструмент для перечисления поддоменов, разработанный Pigman
+- https://github.com/n4xh4ck5/N4xD0rk Используйте поисковые системы для сбора поддоменов, вы можете использовать испанский для сбора
+- https://github.com/vysec/DomLink py2, позвоните на сайт WHOXY.com для дальнейшего сбора электронных писем и доменных имен.
+- https://github.com/jonluca/Anubis py3.6, удаление поддоменов и сбор информации
+- https://github.com/le4f/dnsmaper веб-интерфейс, инструмент для поиска поддоменов и маркер местоположения на карте
+- https://github.com/thewhiteh4t/seeker Инструмент для получения высокоточной географической информации и информации об оборудовании.
+- https://github.com/0xbug/orangescan веб-интерфейс, онлайн-инструмент для сбора информации о субдоменах
+- https://github.com/TheRook/subbrute API-библиотека для взрыва субдоменов, обычно используемая в сканерах
+- https://github.com/We5ter/GSDF Скрипт запроса субдомена на основе прозрачного сертификата Google SSL
+- https://github.com/mandatoryprogrammer/cloudflare_enum Использовать DNS CloudFlare для перечисления поддоменов
+- https://github.com/ultrasecurity/webkiller помощь в проникновении, py, информация об IP, отпечаток службы порта, обнаружение приманки, обход облачной вспышки
+- https://github.com/christophetd/CloudFlair Обход облачной вспышки, получение реального IP, интеграция censys
+- https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker Сбор информации о целевом субдомене несколькими способами
+- https://github.com/code-scan/BroDomain запрос субдомена
+- https://github.com/michenriksen/aquatone средство перечисления и обнаружения поддоменов. Может использоваться для обнаружения уязвимости, связанной с захватом поддоменов
+- https://github.com/chuhades/dnsbrute Go, эффективный инструмент для удаления субдоменов
+- https://github.com/evilsocket/dnssearch на основе go, инструмент для удаления субдоменов
+- https://github.com/OJ/gobuster На основе go, инструмент для запроса субдоменов и веб-каталогов на основе DNS.
+- https://github.com/reconned/domained Инструмент, который можно использовать для сбора поддоменов
+- https://github.com/bit4woo/Teemo Инструмент для сбора и перечисления доменных имен с несколькими методами
+- https://github.com/swisskyrepo/Перечисление субдоменов субдоменов, сканирование портов, подтверждение выживания службы
+- https://github.com/nmalcolm/Inventus Инструмент сбора поддоменов, реализованный поисковым роботом
+- https://github.com/alienwithin/OWASP-mth3l3m3nt-framework помощь в проникновении, поиск php, exp, создание полезной нагрузки и оболочки, сбор информации
+- https://github.com/chrismaddalena/ODIN py3, простой, сбор информации и последующий эксплойт
+- https://github.com/x0day/bannerscan Раздел C / запрос боковой станции и сканирование пути
+- https://github.com/Xyntax/BingC Запрос сегмента C / боковой станции на основе поисковой системы Bing, многопоточный, поддержка API
+- https://github.com/zer0h/httpscan виджет обнаружения веб-узла сетевого сегмента
+- https://github.com/lijiejie/BBScan Сценарий пакетного сканирования раскрытия информации веб-сайта
+- https://github.com/aipengjie/sensitivefilescan Инструмент для сканирования конфиденциальных файлов веб-сайтов.
+- https://github.com/Mosuan/FileScan сканирование файлов, чувствительных к веб-сайту / вторичное суждение для уменьшения количества ложных срабатываний / регуляризация сканирования содержимого сканирование нескольких каталогов
+- https://github.com/Xyntax/FileSensor инструмент обнаружения файлов, чувствительных к веб-сайту.
+- https://github.com/ring04h/weakfilescan Многопоточный инструмент обнаружения утечек веб-сайтов
+- https://github.com/Viralmaniar/Passhunt simple, используется для поиска учетных данных по умолчанию сетевых устройств, веб-приложений и т. д. Содержит 2084 пароля по умолчанию от 523 производителей
+- https://github.com/yassineaboukir/Asnlookup simple, используйте ASN для поиска определенной организации с IP, которую можно связать с nmap и masscan для дальнейшего сканирования информации
 
 #### Раскрытие информации
 
--https://github.com/Yelp/detect-secrets PY, чтобы предотвратить передачу конфиденциальной информации, такой как пароли в коде, в базу кода, что может обеспечить безопасность, не оказывая никакого влияния на производительность разработчиков.
--https://github.com/Acceis/leakScraper Обработка и визуализация крупномасштабных текстовых файлов, поиск конфиденциальной информации, такой как сертификаты
--https://github.com/Raikia/CredNinja многопоточный сценарий проверки учетных данных пользователя, такой как проверка принадлежности хэша дампа этому компьютеру и использование порта 445 для проверки протокола
--https://github.com/CERTCC/keyfinder Найдите и проанализируйте файлы закрытых / открытых ключей (в файловой системе), поддержите файлы APK Android.
--https://github.com/Ice3man543/hawkeye go, терминал cli, инструмент анализа файловой системы, быстрый поиск ключей SSH, файлов журналов, базы данных Sqlite, файлов паролей и т. д., содержащихся в файлах
--https://github.com/FortyNorthSecurity/EyeWitness Получите скриншоты целевого веб-сайта, служб vnc, rdp и попытайтесь получить учетные данные по умолчанию.
--https://github.com/D4Vinci/Cr3dOv3r Инструмент для автоматического поиска просочившейся информации о пароле в соответствии с почтовым ящиком и для проверки того, можно ли использовать пароль учетной записи для входа на основные веб-сайты.
+- https://github.com/Yelp/detect-secrets PY, чтобы предотвратить передачу конфиденциальной информации, такой как пароли в коде, в базу кода, что может обеспечить безопасность, не оказывая никакого влияния на производительность разработчиков.
+- https://github.com/Acceis/leakScraper Обработка и визуализация крупномасштабных текстовых файлов, поиск конфиденциальной информации, такой как сертификаты
+- https://github.com/Raikia/CredNinja многопоточный сценарий проверки учетных данных пользователя, такой как проверка принадлежности хэша дампа этому компьютеру и использование порта 445 для проверки протокола
+- https://github.com/CERTCC/keyfinder Найдите и проанализируйте файлы закрытых / открытых ключей (в файловой системе), поддержите файлы APK Android.
+- https://github.com/Ice3man543/hawkeye go, терминал cli, инструмент анализа файловой системы, быстрый поиск ключей SSH, файлов журналов, базы данных Sqlite, файлов паролей и т. д., содержащихся в файлах
+- https://github.com/FortyNorthSecurity/EyeWitness Получите скриншоты целевого веб-сайта, служб vnc, rdp и попытайтесь получить учетные данные по умолчанию.
+- https://github.com/D4Vinci/Cr3dOv3r Инструмент для автоматического поиска просочившейся информации о пароле в соответствии с почтовым ящиком и для проверки того, можно ли использовать пароль учетной записи для входа на основные веб-сайты.
 
 #### Обнаружение пути входа
 
--https://github.com/maurosoria/dirsearch Классическое сканирование пути к каталогам
--https://github.com/TheM4hd1/PenCrawLer Интерфейс C #, веб-сканер и инструмент удаления пути к каталогам, в дополнение к обычному сканированию добавлен рекурсивный режим взрыва.
--https://github.com/Xyntax/DirBrute инструмент для удаления пути к каталогу
--https://github.com/abaykan/crawlbox путь к каталогу сканер пути
--https://github.com/deibit/cansina сканер путей к каталогам
--https://github.com/UltimateHackers/Breacher Многопоточный фоновый сканер путей, который также можно использовать для поиска уязвимостей Execution After Redirect.
--https://github.com/fnk0c/cangibrina Кросс-платформенный сканер путей фонового управления через исчерпание словаря, google, robots.txt и т. д.
--https://github.com/Go0s/SitePathScan Инструмент для извлечения пути к каталогам на основе сопрограмм, с aiohttp сканированием пути более чем в три раза быстрее, чем раньше
--https://github.com/secfree/bcrpscan сканер веб-путей на основе поискового робота
+- https://github.com/maurosoria/dirsearch Классическое сканирование пути к каталогам
+- https://github.com/TheM4hd1/PenCrawLer Интерфейс C #, веб-сканер и инструмент удаления пути к каталогам, в дополнение к обычному сканированию добавлен рекурсивный режим взрыва.
+- https://github.com/Xyntax/DirBrute инструмент для удаления пути к каталогу
+- https://github.com/abaykan/crawlbox путь к каталогу сканер пути
+- https://github.com/deibit/cansina сканер путей к каталогам
+- https://github.com/UltimateHackers/Breacher Многопоточный фоновый сканер путей, который также можно использовать для поиска уязвимостей Execution After Redirect.
+- https://github.com/fnk0c/cangibrina Кросс-платформенный сканер путей фонового управления через исчерпание словаря, google, robots.txt и т. д.
+- https://github.com/Go0s/SitePathScan Инструмент для извлечения пути к каталогам на основе сопрограмм, с aiohttp сканированием пути более чем в три раза быстрее, чем раньше
+- https://github.com/secfree/bcrpscan сканер веб-путей на основе поискового робота
 
 #### Отпечатки метаданные | Обнаружение
 
--https://github.com/nmap/nmap LUA, сканер портов Nmap, с мощной структурой скриптового движка
--https://github.com/robertdavidgraham/masscan C, сканирование без сохранения состояния, вы можете вызвать nmap для распознавания отпечатков пальцев
--https://github.com/zmap/zmap C, сканирование без сохранения состояния, необходимо писать модули расширения на C
--https://github.com/zmap/zgrab go, распознавание отпечатков пальцев и управление расписанием на основе сканера zmap, который может обходить CDN
--https://github.com/chichou/grab.js Быстрый инструмент анализа захвата отпечатков TCP, похожий на zgrab, поддерживающий больше протоколов.
--https://github.com/johnnyxmas/scancannon shell, ссылка masscan и nmap
--https://github.com/OffensivePython/Nscan Сетевой сканер на основе Masscan и Zmap
--https://github.com/ring04h/wyportmap вызов nmap сканирование целевого порта + распознавание отпечатков пальцев системной службы
--https://github.com/angryip/ipscan Angry IP Scanner, кроссплатформенный интерфейсный сканер портов.
--https://github.com/EnableSecurity/wafw00f Распознавание отпечатков пальцев продукта WAF
--https://github.com/rbsec/sslscan распознавание типа ssl
--https://github.com/urbanadventurer/whatweb web fingerprinting
--https://github.com/Rvn0xsy/FastWhatWebSearch Платформа поиска результатов инструмента whatweb
--https://github.com/tanjiti/FingerPrint распознавание отпечатков пальцев веб-приложений
--https://github.com/nanshihui/Scan-T распознавание отпечатков пальцев веб-сканера
--https://github.com/ywolf/F-MiddlewareScan Идентификация службы сканирования промежуточного программного обеспечения
--Сканер уязвимостей IP-портов для распределенного распределения задач, реализованный на https://github.com/lietdai/doom thorn
--https://github.com/RASSec/RASscan сканирование службы портов
--https://github.com/m3liot/shcheck используется для проверки безопасности http-заголовка веб-службы
--https://github.com/mozilla/ssh_scan Сканирование информации о конфигурации ssh сервера
--https://github.com/18F/domain-scan Обнаружение / сканирование данных активов для доменных имен и поддоменов, включая обнаружение http / https и т. д.
--https://github.com/ggusoft/inforfinder инструмент для сбора активов домена и идентификации по отпечаткам пальцев.
--https://github.com/0xbug/Howl Сканирование и извлечение отпечатков пальцев веб-службы сетевого устройства
--https://github.com/mozilla/cipherscan определение типа ssl службы целевого хоста
--https://github.com/medbenali/CyberScan Инструмент-помощник по тестированию на проникновение, поддерживающий анализ пакетов данных, декодирование, сканирование портов, анализ IP-адресов и т. д.
--https://github.com/jekyc/wig инструмент сбора информации о веб-приложениях
--https://github.com/eldraco/domain_analyzer для сбора информации и сканирования на предмет «переноса домена» и других уязвимостей вокруг доменного имени веб-службы. Он также поддерживает скрытое сканирование портов сервера.
--https://github.com/cloudtracer/paskto Пассивное сканирование путей и поисковый робот на основе правил сканирования Nikto
--https://github.com/zerokeeper/WebEye Быстро определять тип WEB-сервера, тип CMS, тип WAF, информацию WHOIS и языковую структуру
--https://github.com/n4xh4ck5/CMSsc4n Распознавание отпечатков пальцев CMS
--https://github.com/HA71/WhatCMS CMS обнаружение и сценарий использования CMS, основанный на Whatcms.org API
--https://github.com/boy-hack/gwhatweb CMS распознает реализацию gevent на Python
--https://github.com/wpscanteam/wpscan - в основном лучший инструмент для Word Press
--https://github.com/swisskyrepo/Wordpresscan Оптимизированный сканер wordpress на основе WPScan и WPSeku
--https://github.com/m4ll0k/WPSeku Оптимизированный инструмент сканирования Wordpress.
--https://github.com/rastating/wordpress-exploit-framework WordPress эксплойт-фреймворк
--https://github.com/Jamalc0m/wphunter php, сканер wordpress
--https://github.com/UltimateLabs/Zoom сканер уязвимостей wordpress
--https://github.com/immunIT/drupwn Инструмент для сбора информации и эксплуатации уязвимостей Drupal
--https://github.com/CHYbeta/cmsPoc Фреймворк для тестирования на проникновение в CMS.
--https://github.com/chuhades/CMS-Exploit-Framework CMS-структура атаки
--https://github.com/Tuhinshubhra/CMSeeK Базовое обнаружение более 20 видов CMS, для использования wp, настраиваемая модульная функция взрыва
--https://github.com/Dionach/CMSmap поддерживает сканирование WordPress, Joomla и Drupal.
--https://github.com/Moham3dRiahi/XAttacker Web CMS Exploit tool, включая 66 различных эксплойтов для основной CMS.
--https://github.com/code-scan/dzscan Первый интегрированный инструмент сканирования Discuz
+- https://github.com/nmap/nmap LUA, сканер портов Nmap, с мощной структурой скриптового движка
+- https://github.com/robertdavidgraham/masscan C, сканирование без сохранения состояния, вы можете вызвать nmap для распознавания отпечатков пальцев
+- https://github.com/zmap/zmap C, сканирование без сохранения состояния, необходимо писать модули расширения на C
+- https://github.com/zmap/zgrab go, распознавание отпечатков пальцев и управление расписанием на основе сканера zmap, который может обходить CDN
+- https://github.com/chichou/grab.js Быстрый инструмент анализа захвата отпечатков TCP, похожий на zgrab, поддерживающий больше протоколов.
+- https://github.com/johnnyxmas/scancannon shell, ссылка masscan и nmap
+- https://github.com/OffensivePython/Nscan Сетевой сканер на основе Masscan и Zmap
+- https://github.com/ring04h/wyportmap вызов nmap сканирование целевого порта + распознавание отпечатков пальцев системной службы
+- https://github.com/angryip/ipscan Angry IP Scanner, кроссплатформенный интерфейсный сканер портов.
+- https://github.com/EnableSecurity/wafw00f Распознавание отпечатков пальцев продукта WAF
+- https://github.com/rbsec/sslscan распознавание типа ssl
+- https://github.com/urbanadventurer/whatweb web fingerprinting
+- https://github.com/Rvn0xsy/FastWhatWebSearch Платформа поиска результатов инструмента whatweb
+- https://github.com/tanjiti/FingerPrint распознавание отпечатков пальцев веб-приложений
+- https://github.com/nanshihui/Scan-T распознавание отпечатков пальцев веб-сканера
+- https://github.com/ywolf/F-MiddlewareScan Идентификация службы сканирования промежуточного программного обеспечения
+- Сканер уязвимостей IP-портов для распределенного распределения задач, реализованный на https://github.com/lietdai/doom thorn
+- https://github.com/RASSec/RASscan сканирование службы портов
+- https://github.com/m3liot/shcheck используется для проверки безопасности http-заголовка веб-службы
+- https://github.com/mozilla/ssh_scan Сканирование информации о конфигурации ssh сервера
+- https://github.com/18F/domain-scan Обнаружение / сканирование данных активов для доменных имен и поддоменов, включая обнаружение http / https и т. д.
+- https://github.com/ggusoft/inforfinder инструмент для сбора активов домена и идентификации по отпечаткам пальцев.
+- https://github.com/0xbug/Howl Сканирование и извлечение отпечатков пальцев веб-службы сетевого устройства
+- https://github.com/mozilla/cipherscan определение типа ssl службы целевого хоста
+- https://github.com/medbenali/CyberScan Инструмент-помощник по тестированию на проникновение, поддерживающий анализ пакетов данных, декодирование, сканирование портов, анализ IP-адресов и т. д.
+- https://github.com/jekyc/wig инструмент сбора информации о веб-приложениях
+- https://github.com/eldraco/domain_analyzer для сбора информации и сканирования на предмет «переноса домена» и других уязвимостей вокруг доменного имени веб-службы. Он также поддерживает скрытое сканирование портов сервера.
+- https://github.com/cloudtracer/paskto Пассивное сканирование путей и поисковый робот на основе правил сканирования Nikto
+- https://github.com/zerokeeper/WebEye Быстро определять тип WEB-сервера, тип CMS, тип WAF, информацию WHOIS и языковую структуру
+- https://github.com/n4xh4ck5/CMSsc4n Распознавание отпечатков пальцев CMS
+- https://github.com/HA71/WhatCMS CMS обнаружение и сценарий использования CMS, основанный на Whatcms.org API
+- https://github.com/boy-hack/gwhatweb CMS распознает реализацию gevent на Python
+- https://github.com/wpscanteam/wpscan - в основном лучший инструмент для Word Press
+- https://github.com/swisskyrepo/Wordpresscan Оптимизированный сканер wordpress на основе WPScan и WPSeku
+- https://github.com/m4ll0k/WPSeku Оптимизированный инструмент сканирования Wordpress.
+- https://github.com/rastating/wordpress-exploit-framework WordPress эксплойт-фреймворк
+- https://github.com/Jamalc0m/wphunter php, сканер wordpress
+- https://github.com/UltimateLabs/Zoom сканер уязвимостей wordpress
+- https://github.com/immunIT/drupwn Инструмент для сбора информации и эксплуатации уязвимостей Drupal
+- https://github.com/CHYbeta/cmsPoc Фреймворк для тестирования на проникновение в CMS.
+- https://github.com/chuhades/CMS-Exploit-Framework CMS-структура атаки
+- https://github.com/Tuhinshubhra/CMSeeK Базовое обнаружение более 20 видов CMS, для использования wp, настраиваемая модульная функция взрыва
+- https://github.com/Dionach/CMSmap поддерживает сканирование WordPress, Joomla и Drupal.
+- https://github.com/Moham3dRiahi/XAttacker Web CMS Exploit tool, включая 66 различных эксплойтов для основной CMS.
+- https://github.com/code-scan/dzscan Первый интегрированный инструмент сканирования Discuz
 
 #### LFI
 
--https://github.com/hvqzao/liffy локальный файл содержит инструменты эксплойтов
--https://github.com/D35m0nd142/ Локальный файл Kadabra содержит инструменты для сканирования и эксплуатации уязвимостей.
--https://github.com/P0cL4bs/Локальный файл Kadimus содержит инструменты для сканирования и эксплуатации уязвимостей.
--https://github.com/D35m0nd142/LFISuite локальный файл содержит инструменты для эксплойтов и сканирования уязвимостей, поддерживает обратную оболочку
--https://github.com/OsandaMalith/LFiFreak Локальный файл содержит средства эксплойтов и сканирования, а также поддерживает обратную оболочку.
+- https://github.com/hvqzao/liffy локальный файл содержит инструменты эксплойтов
+- https://github.com/D35m0nd142/ Локальный файл Kadabra содержит инструменты для сканирования и эксплуатации уязвимостей.
+- https://github.com/P0cL4bs/Локальный файл Kadimus содержит инструменты для сканирования и эксплуатации уязвимостей.
+- https://github.com/D35m0nd142/LFISuite локальный файл содержит инструменты для эксплойтов и сканирования уязвимостей, поддерживает обратную оболочку
+- https://github.com/OsandaMalith/LFiFreak Локальный файл содержит средства эксплойтов и сканирования, а также поддерживает обратную оболочку.
 
 #### Уязвимость загрузки
 
--https://github.com/UltimateHackers/Arjun Сканировать веб-страницу и использовать регулярные выражения для поиска скрытых параметров GET / POST.
--https://github.com/3xp10it/xupload Инструмент для автоматической проверки, может ли функция загрузки загружать веб-оболочку
--https://github.com/gunnerstahl/JQShell py3, CVE-2018-9206 инструмент для загрузки файлов jQuery
--https://github.com/destine21/ZIPFileRaider Burp plug-in, тестовая уязвимость загрузки zip-файла
--https://github.com/jpiechowka/zip-shotgun py, тестовая уязвимость загрузки zip-файла
+- https://github.com/UltimateHackers/Arjun Сканировать веб-страницу и использовать регулярные выражения для поиска скрытых параметров GET / POST.
+- https://github.com/3xp10it/xupload Инструмент для автоматической проверки, может ли функция загрузки загружать веб-оболочку
+- https://github.com/gunnerstahl/JQShell py3, CVE-2018-9206 инструмент для загрузки файлов jQuery
+- https://github.com/destine21/ZIPFileRaider Burp plug-in, тестовая уязвимость загрузки zip-файла
+- https://github.com/jpiechowka/zip-shotgun py, тестовая уязвимость загрузки zip-файла
 
 #### Использование XSS
 
--https://github.com/UltimateHackers/AwesomeXSS Серия XSS Awesome
--[http://www.xss-payloads.com](http://www.xss-payloads.com/) Исчерпывающий инструментарий и информация по xss
--https://github.com/ismailtasdelen/xss-payload-list Список полезной нагрузки уязвимости XSS
--https://github.com/beefproject/beef Классическая структура использования xss.
--https://github.com/samdenty99/injectify фреймворк использования xss, похожий на говядину
--https://github.com/firesunCN/BlueLotus_XSSReceiver Платформа использования xss, созданная Blue Lotus для CTF.
--https://github.com/NytroRST/XSSFuzzer генерирует полезную нагрузку xss на основе определенных тегов
--https://github.com/evilcos/xssor2 Вспомогательный инструмент для использования xss, написанный косинусом
--https://github.com/UltimateHackers/XSStrike инструмент сканирования XSS, который может распознавать и обходить WAF
--https://github.com/raz-varren/xsshell go, используйте уязвимость xss, чтобы вернуть интерактивную оболочку js
--https://github.com/UltimateHackers/JShell Использование уязвимости xss для возврата интерактивной оболочки js
--https://github.com/shawarkhanethicalhacker/BruteXSS Сканер XSS, который может сильно вводить параметры
--https://github.com/1N3/XSSTracer небольшой сканер XSS, также может обнаруживать CRLF, XSS, кликджекинг
--https://github.com/0x584A/fuzzXssPHP PHP-версия рефлексивного сканирования xss
--https://github.com/chuhades/xss_scan скрипт Python для пакетного сканирования XSS
--https://github.com/BlackHole1/autoFindXssAndCsrf плагин браузера, который автоматически определяет, есть ли на странице уязвимости XSS и CSRF.
--https://github.com/shogunlab/shuriken Обнаружение пакета XSS с помощью командной строки
--https://github.com/stamparm/DSXS Эффективный сканер XSS, поддерживающий методы GET и POST.
--Если он недоступен по адресу https://github.com/bsmali4/xssfork kali, загрузите правильный PhantomJS в каталог Thirdparty / phantomjs / Linux.
--https://github.com/riusksk/FlashScanner flash xss scan
--https://github.com/Damian89/xssfinder для обнаружения отражающего XSS на веб-сайтах
--https://github.com/BlackHole1/WebRtcXSS Автоматически использовать XSS для вторжения в интрасеть.
+- https://github.com/UltimateHackers/AwesomeXSS Серия XSS Awesome
+- [http://www.xss-payloads.com](http://www.xss-payloads.com/) Исчерпывающий инструментарий и информация по xss
+- https://github.com/ismailtasdelen/xss-payload-list Список полезной нагрузки уязвимости XSS
+- https://github.com/beefproject/beef Классическая структура использования xss.
+- https://github.com/samdenty99/injectify фреймворк использования xss, похожий на говядину
+- https://github.com/firesunCN/BlueLotus_XSSReceiver Платформа использования xss, созданная Blue Lotus для CTF.
+- https://github.com/NytroRST/XSSFuzzer генерирует полезную нагрузку xss на основе определенных тегов
+- https://github.com/evilcos/xssor2 Вспомогательный инструмент для использования xss, написанный косинусом
+- https://github.com/UltimateHackers/XSStrike инструмент сканирования XSS, который может распознавать и обходить WAF
+- https://github.com/raz-varren/xsshell go, используйте уязвимость xss, чтобы вернуть интерактивную оболочку js
+- https://github.com/UltimateHackers/JShell Использование уязвимости xss для возврата интерактивной оболочки js
+- https://github.com/shawarkhanethicalhacker/BruteXSS Сканер XSS, который может сильно вводить параметры
+- https://github.com/1N3/XSSTracer небольшой сканер XSS, также может обнаруживать CRLF, XSS, кликджекинг
+- https://github.com/0x584A/fuzzXssPHP PHP-версия рефлексивного сканирования xss
+- https://github.com/chuhades/xss_scan скрипт Python для пакетного сканирования XSS
+- https://github.com/BlackHole1/autoFindXssAndCsrf плагин браузера, который автоматически определяет, есть ли на странице уязвимости XSS и CSRF.
+- https://github.com/shogunlab/shuriken Обнаружение пакета XSS с помощью командной строки
+- https://github.com/stamparm/DSXS Эффективный сканер XSS, поддерживающий методы GET и POST.
+- Если он недоступен по адресу https://github.com/bsmali4/xssfork kali, загрузите правильный PhantomJS в каталог Thirdparty / phantomjs / Linux.
+- https://github.com/riusksk/FlashScanner flash xss scan
+- https://github.com/Damian89/xssfinder для обнаружения отражающего XSS на веб-сайтах
+- https://github.com/BlackHole1/WebRtcXSS Автоматически использовать XSS для вторжения в интрасеть.
 
 #### Boom pass
 
--https://github.com/vanhauser-thc/thc-hydra поддерживает взлом и взлом нескольких протоколов, и версия для Windows не будет предоставляться после v8
--https://github.com/nmap/ncrack c, поддерживает взлом и взлом нескольких протоколов
--https://github.com/0pn1i9ht/F-Scrack ysrc Скрипт для взрыва логинов и паролей различных сервисов
--https://github.com/TunisianEagles/SocialBox Скрипт для подбора имени пользователя и пароля для fb, gmail, ins, twitter
--https://github.com/lanjelot/patator поддерживает обработку нескольких протоколов, имеет модульную конструкцию и гибкий в использовании.
--https://github.com/m4ll0k/SMBrute Использовать службу smb для взлома имени пользователя и пароля
--https://github.com/netxfly/crack_ssh Go записывает сопрограмму для взлома слабых паролей ssh ​​\ redis \ mongodb
--https://github.com/UltimateHackers/Blazy поддерживает детекторы слабых паролей для тестирования CSRF, Clickjacking, Cloudflare и WAF.
--https://github.com/Moham3dRiahi/XBruteForcer взлом паролей пользователей CMS, таких как WordPress, Joomla, DruPal, OpenCart, Magento и т. д.
--https://github.com/shengqi158/weak_password_detect Использование многопоточности nmap для обнаружения слабого пароля ssh под Linux
--https://github.com/ztgrace/changeme сканер слабых паролей, не только поддерживает обычные страницы входа, но также поддерживает ssh, mongodb и другие компоненты
--https://github.com/lijiejie/htpwdScan simple, http brute force cracking, скрипт атаки столкновения библиотеки
--https://github.com/scu-igroup/ssh-scanner ссылка nmap, hydra на пакетную очистку ssh
+- https://github.com/vanhauser-thc/thc-hydra поддерживает взлом и взлом нескольких протоколов, и версия для Windows не будет предоставляться после v8
+- https://github.com/nmap/ncrack c, поддерживает взлом и взлом нескольких протоколов
+- https://github.com/0pn1i9ht/F-Scrack ysrc Скрипт для взрыва логинов и паролей различных сервисов
+- https://github.com/TunisianEagles/SocialBox Скрипт для подбора имени пользователя и пароля для fb, gmail, ins, twitter
+- https://github.com/lanjelot/patator поддерживает обработку нескольких протоколов, имеет модульную конструкцию и гибкий в использовании.
+- https://github.com/m4ll0k/SMBrute Использовать службу smb для взлома имени пользователя и пароля
+- https://github.com/netxfly/crack_ssh Go записывает сопрограмму для взлома слабых паролей ssh ​​\ redis \ mongodb
+- https://github.com/UltimateHackers/Blazy поддерживает детекторы слабых паролей для тестирования CSRF, Clickjacking, Cloudflare и WAF.
+- https://github.com/Moham3dRiahi/XBruteForcer взлом паролей пользователей CMS, таких как WordPress, Joomla, DruPal, OpenCart, Magento и т. д.
+- https://github.com/shengqi158/weak_password_detect Использование многопоточности nmap для обнаружения слабого пароля ssh под Linux
+- https://github.com/ztgrace/changeme сканер слабых паролей, не только поддерживает обычные страницы входа, но также поддерживает ssh, mongodb и другие компоненты
+- https://github.com/lijiejie/htpwdScan simple, http brute force cracking, скрипт атаки столкновения библиотеки
+- https://github.com/scu-igroup/ssh-scanner ссылка nmap, hydra на пакетную очистку ssh
 
 #### Взлом пароля (работа с хешами)
 
--https://securityxploded.com/download.php Различные инструменты защиты паролей.
--https://github.com/bdutro/ibm_pw_clear IBM x3550 / x3560 M3 инструмент для сброса пароля BIOS
--https://github.com/thehappydinoa/iOSRestrictionBruteForce py, реализован инструмент для взлома пароля ограничения доступа iOS
--https://github.com/hashcat/hashcat C, взлом хеша
--https://github.com/fireeye/gocrack GO, распределенный инструмент для взлома паролей, основанный на hashcat 3.6.0+
--https://github.com/s3inlc/hashtopolis Распределенный инструмент взлома, основанный на хэшкате на основе php, с поддержкой клиентов C # и python
--https://github.com/e-ago/bitcracker - первый инструмент для взлома паролей BitLocker с открытым исходным кодом
--https://www.ru.nl/publish/pages/909282/draft-paper.pdf Взлом бумаги с помощью BitLocker под SSD
--https://github.com/magnumripper/JohnTheRipper Программа для взлома паролей, которая пытается взломать открытый текст, когда известен зашифрованный текст
--https://github.com/shinnok/johnny JohnTheRipper GUI-интерфейс для взлома паролей, теоретически совместим со всеми функциями, с интерфейсом Windows
--https://github.com/jmk-foofus/medusa поддерживает немного меньший протокол, чем гидра, но некоторые скорости будут быстрее
--https://github.com/MrSqar-Ye/wpCrack хеш-трещина wordpress
--https://github.com/testsecer/Md5Decrypt C #, инструмент поиска MD5 на основе онлайн-веб-API
--https://github.com/s0md3v/Hash-Buster Умный инструмент, который может вызывать несколько API для запросов на взлом хеша.
--https://www.52pojie.cn/thread-275945-1-1.html ARCHPR Pro4.54 зеленая китайская взломанная версия. Взлом паролей сжатых пакетов с использованием "известных атак с открытым текстом" для взлома зашифрованных сжатых файлов.
+- https://securityxploded.com/download.php Различные инструменты защиты паролей.
+- https://github.com/bdutro/ibm_pw_clear IBM x3550 / x3560 M3 инструмент для сброса пароля BIOS
+- https://github.com/thehappydinoa/iOSRestrictionBruteForce py, реализован инструмент для взлома пароля ограничения доступа iOS
+- https://github.com/hashcat/hashcat C, взлом хеша
+- https://github.com/fireeye/gocrack GO, распределенный инструмент для взлома паролей, основанный на hashcat 3.6.0+
+- https://github.com/s3inlc/hashtopolis Распределенный инструмент взлома, основанный на хэшкате на основе php, с поддержкой клиентов C # и python
+- https://github.com/e-ago/bitcracker - первый инструмент для взлома паролей BitLocker с открытым исходным кодом
+- https://www.ru.nl/publish/pages/909282/draft-paper.pdf Взлом бумаги с помощью BitLocker под SSD
+- https://github.com/magnumripper/JohnTheRipper Программа для взлома паролей, которая пытается взломать открытый текст, когда известен зашифрованный текст
+- https://github.com/shinnok/johnny JohnTheRipper GUI-интерфейс для взлома паролей, теоретически совместим со всеми функциями, с интерфейсом Windows
+- https://github.com/jmk-foofus/medusa поддерживает немного меньший протокол, чем гидра, но некоторые скорости будут быстрее
+- https://github.com/MrSqar-Ye/wpCrack хеш-трещина wordpress
+- https://github.com/testsecer/Md5Decrypt C #, инструмент поиска MD5 на основе онлайн-веб-API
+- https://github.com/s0md3v/Hash-Buster Умный инструмент, который может вызывать несколько API для запросов на взлом хеша.
+- https://www.52pojie.cn/thread-275945-1-1.html ARCHPR Pro4.54 зеленая китайская взломанная версия. Взлом паролей сжатых пакетов с использованием "известных атак с открытым текстом" для взлома зашифрованных сжатых файлов.
 
 #### Безопасность БД
 
--https://github.com/ron190/jsql-injection Инструмент SQL-инъекции, написанный на Java
--https://github.com/shack2/SuperSQLInjectionV1 Инструмент для внедрения интерфейса Anheng Hangniu
--https://github.com/sqlmapproject/sqlmap SQL-инъекция sqlmap
--https://github.com/stamparm/DSSS Сканер уязвимостей SQL-инъекций, реализованный с 1,99 строк кода
--https://github.com/Hadesy2k/sqliv был использован1, сканер уязвимостей массового внедрения SQL-кода на основе поисковой системы
--https://github.com/quentinhardy/odat Очень всеобъемлющий инструмент, посвященный проникновению Oracle.
--https://github.com/m8r0wn/enumdb MySQL и MSSQL используют инструменты для последующего взрыва, поиска в базе данных и извлечения конфиденциальной информации.
--https://github.com/LoRexxar/Feigong Скрипт внедрения MySQL, свободно меняющийся для различных ситуаций
--https://github.com/youngyangyang04/NoSQLAttack Инструмент атаки против mongoDB
--https://github.com/Neohapsis/bbqsql Инфраструктура использования слепых SQL-инъекций
--https://github.com/NetSPI/PowerUpSQL Тестовая среда sqlserver на основе Powershell
--http://www.4hou.com/system/14950.html Использование PowerUpSQL, метод тестирования на проникновение: обход ограничений триггера входа в SQL Server
--https://github.com/WhitewidowScanner/whitewidow сканер базы данных
--https://github.com/stampery/mongoaudit Инструмент для аудита и проникновения MongoDB
--https://github.com/torque59/Nosql-Exploitation-Framework Инструмент для сканирования / взрыва NoSQL
--https://github.com/missDronio/blindy Инструмент для слепой инъекции MySQL
--https://github.com/JohnTroony/Blisqy Инструмент для подрывной инъекции без учета времени, используемый в заголовке http, только для MySQL / MariaDB
--https://github.com/se55i0n/DBScanner автоматически сканирует общие сценарии баз данных sql и no-sql в интрасети, включая несанкционированный доступ и регулярное обнаружение слабых паролей.
--https://github.com/Turr0n/firebase для использования базы данных firebase, которая не настроена должным образом
+- https://github.com/ron190/jsql-injection Инструмент SQL-инъекции, написанный на Java
+- https://github.com/shack2/SuperSQLInjectionV1 Инструмент для внедрения интерфейса Anheng Hangniu
+- https://github.com/sqlmapproject/sqlmap SQL-инъекция sqlmap
+- https://github.com/stamparm/DSSS Сканер уязвимостей SQL-инъекций, реализованный с 1,99 строк кода
+- https://github.com/Hadesy2k/sqliv был использован1, сканер уязвимостей массового внедрения SQL-кода на основе поисковой системы
+- https://github.com/quentinhardy/odat Очень всеобъемлющий инструмент, посвященный проникновению Oracle.
+- https://github.com/m8r0wn/enumdb MySQL и MSSQL используют инструменты для последующего взрыва, поиска в базе данных и извлечения конфиденциальной информации.
+- https://github.com/LoRexxar/Feigong Скрипт внедрения MySQL, свободно меняющийся для различных ситуаций
+- https://github.com/youngyangyang04/NoSQLAttack Инструмент атаки против mongoDB
+- https://github.com/Neohapsis/bbqsql Инфраструктура использования слепых SQL-инъекций
+- https://github.com/NetSPI/PowerUpSQL Тестовая среда sqlserver на основе Powershell
+- http://www.4hou.com/system/14950.html Использование PowerUpSQL, метод тестирования на проникновение: обход ограничений триггера входа в SQL Server
+- https://github.com/WhitewidowScanner/whitewidow сканер базы данных
+- https://github.com/stampery/mongoaudit Инструмент для аудита и проникновения MongoDB
+- https://github.com/torque59/Nosql-Exploitation-Framework Инструмент для сканирования / взрыва NoSQL
+- https://github.com/missDronio/blindy Инструмент для слепой инъекции MySQL
+- https://github.com/JohnTroony/Blisqy Инструмент для подрывной инъекции без учета времени, используемый в заголовке http, только для MySQL / MariaDB
+- https://github.com/se55i0n/DBScanner автоматически сканирует общие сценарии баз данных sql и no-sql в интрасети, включая несанкционированный доступ и регулярное обнаружение слабых паролей.
+- https://github.com/Turr0n/firebase для использования базы данных firebase, которая не настроена должным образом
 
 #### Аудит кода
 
--https://www.waitalone.cn/seay-source-code-auditv2.html Система аудита исходного кода Seay версии 2.1
--https://github.com/pyupio/safety Проверьте все установленные пакеты Python, чтобы найти известные уязвимости безопасности.
--https://github.com/pumasecurity/puma-scan аудит кода в реальном времени по сравнению с плагином
--https://github.com/wufeifei/cobra система аудита безопасности кода белого ящика
--https://github.com/OneSourceCat/phpvulhunter статический аудит php-кода
--https://github.com/ripsscanner/rips Инструмент аудита кода PHP на основе PHP
--https://github.com/Qihoo360/phptrace Инструмент для отслеживания и анализа работы PHP.
--https://github.com/ajinabraham/NodeJsScan Аудит кода приложения Node.JS
--https://github.com/ctxis/beemka набор эксплойтов для приложения Electron.
--https://github.com/doyensec/electronegativity Аудит кода приложения Electron, неправильная конфигурация приложения и проблемы с безопасностью
--https://github.com/shengqi158/pyvulhunter Аудит приложений Python
--https://github.com/securego/gosec Инструмент анализа безопасности исходного кода языка Go
--https://github.com/GoSSIP-SJTU/TripleDoggy c / c ++ / object-c структура обнаружения исходного кода на основе clang, существует большое количество интерфейсов, которые можно вызвать
--https://github.com/ga0/pyprotect Шифровать код Python для предотвращения обратного проектирования.
--https://github.com/presidentbeef/brakeman Анализ статического кода приложения Ruby on Rails
--https://github.com/python-security/pyt Инструмент статического анализа, используемый для обнаружения уязвимостей безопасности в веб-приложениях Python.
--https://github.com/m4ll0k/WPSploit Аудит безопасности кода плагина Wordpress
--https://github.com/elcodigok/wpharpting Повысьте безопасность любой установки WordPress.
+- https://www.waitalone.cn/seay-source-code-auditv2.html Система аудита исходного кода Seay версии 2.1
+- https://github.com/pyupio/safety Проверьте все установленные пакеты Python, чтобы найти известные уязвимости безопасности.
+- https://github.com/pumasecurity/puma-scan аудит кода в реальном времени по сравнению с плагином
+- https://github.com/wufeifei/cobra система аудита безопасности кода белого ящика
+- https://github.com/OneSourceCat/phpvulhunter статический аудит php-кода
+- https://github.com/ripsscanner/rips Инструмент аудита кода PHP на основе PHP
+- https://github.com/Qihoo360/phptrace Инструмент для отслеживания и анализа работы PHP.
+- https://github.com/ajinabraham/NodeJsScan Аудит кода приложения Node.JS
+- https://github.com/ctxis/beemka набор эксплойтов для приложения Electron.
+- https://github.com/doyensec/electronegativity Аудит кода приложения Electron, неправильная конфигурация приложения и проблемы с безопасностью
+- https://github.com/shengqi158/pyvulhunter Аудит приложений Python
+- https://github.com/securego/gosec Инструмент анализа безопасности исходного кода языка Go
+- https://github.com/GoSSIP-SJTU/TripleDoggy c / c ++ / object-c структура обнаружения исходного кода на основе clang, существует большое количество интерфейсов, которые можно вызвать
+- https://github.com/ga0/pyprotect Шифровать код Python для предотвращения обратного проектирования.
+- https://github.com/presidentbeef/brakeman Анализ статического кода приложения Ruby on Rails
+- https://github.com/python-security/pyt Инструмент статического анализа, используемый для обнаружения уязвимостей безопасности в веб-приложениях Python.
+- https://github.com/m4ll0k/WPSploit Аудит безопасности кода плагина Wordpress
+- https://github.com/elcodigok/wpharpting Повысьте безопасность любой установки WordPress.
 
 #### Безопасность больших данных
 
--https://github.com/shouc/BDA Аудит и обнаружение для платформ больших данных, таких как hadoop / spark / mysql
--https://github.com/wavestone-cdt/hadoop-attack-library метод тестирования и набор инструментов hadoop.
+- https://github.com/shouc/BDA Аудит и обнаружение для платформ больших данных, таких как hadoop / spark / mysql
+- https://github.com/wavestone-cdt/hadoop-attack-library метод тестирования и набор инструментов hadoop.
 
 
 #### Yязвимости
 
--https://github.com/vulhub/vulhub Vulhub - это полигон с открытым исходным кодом для широкой публики. Вы можете скомпилировать и запустить полный образ диапазона уязвимостей, выполнив две команды без ведома докера.
+- https://github.com/vulhub/vulhub Vulhub - это полигон с открытым исходным кодом для широкой публики. Вы можете скомпилировать и запустить полный образ диапазона уязвимостей, выполнив две команды без ведома докера.
 
--https://github.com/Medicean/VulApps собирает различные среды уязвимостей и единообразно использует формат Dockerfile для простоты использования. При этом также собирается среда инструмента безопасности.
--https://github.com/bingohuang/docker-labs Создание онлайн-платформы для докеров.
+- https://github.com/Medicean/VulApps собирает различные среды уязвимостей и единообразно использует формат Dockerfile для простоты использования. При этом также собирается среда инструмента безопасности.
+- https://github.com/bingohuang/docker-labs Создание онлайн-платформы для докеров.
 
 #### Искать уязвимости | DB-exploit
 
--https://wooyun.kieran.top/#! / До 2016 года, статья Wuyun Drops, публичная статья с подробностями об уязвимостях
--https://wooyun.js.org/ До 2016 г., статья Wuyun Drops, статья о публичных уязвимостях
--https://dvpnet.io/list/index/state/3 Публичная статья с подробностями об уязвимости
--https://sec.ly.com/bugs Статья с подробностями раскрытия информации об уязвимости в системе безопасности Tongcheng
--[http://ics.cnvd.org.cn](http://ics.cnvd.org.cn/) Китайская национальная база данных уязвимостей промышленного контроля
--https://ics-cert.us-cert.gov/advisories Национальная база данных уязвимостей промышленного контроля
--http://www.nsfocus.net/index.php? act = sec_bug Библиотека уязвимостей NSFOCUS, включая промышленный контроль
--http://ivd.winicssec.com/ Библиотека уязвимостей промышленного управления Winut
--http://cve.scap.org.cn/view/ics Китайская библиотека уязвимостей промышленного контроля для CVE
--https://cve.mitre.org/cve/search_cve_list.html База данных уязвимостей CVE, поддерживаемая американской компанией MITER
--[https://www.exploit-db.com](https://www.exploit-db.com/) База данных уязвимостей U.S. Offensive Security
--https://nvd.nist.gov/vuln/search База данных уязвимостей национальной информационной безопасности США
+- https://wooyun.kieran.top/#! / До 2016 года, статья Wuyun Drops, публичная статья с подробностями об уязвимостях
+- https://wooyun.js.org/ До 2016 г., статья Wuyun Drops, статья о публичных уязвимостях
+- https://dvpnet.io/list/index/state/3 Публичная статья с подробностями об уязвимости
+- https://sec.ly.com/bugs Статья с подробностями раскрытия информации об уязвимости в системе безопасности Tongcheng
+- [http://ics.cnvd.org.cn](http://ics.cnvd.org.cn/) Китайская национальная база данных уязвимостей промышленного контроля
+- https://ics-cert.us-cert.gov/advisories Национальная база данных уязвимостей промышленного контроля
+- http://www.nsfocus.net/index.php? act = sec_bug Библиотека уязвимостей NSFOCUS, включая промышленный контроль
+- http://ivd.winicssec.com/ Библиотека уязвимостей промышленного управления Winut
+- http://cve.scap.org.cn/view/ics Китайская библиотека уязвимостей промышленного контроля для CVE
+- https://cve.mitre.org/cve/search_cve_list.html База данных уязвимостей CVE, поддерживаемая американской компанией MITER
+- [https://www.exploit-db.com](https://www.exploit-db.com/) База данных уязвимостей U.S. Offensive Security
+- https://nvd.nist.gov/vuln/search База данных уязвимостей национальной информационной безопасности США
 
 #### EXP & POC
 
--https://github.com/Lcys/Python_PoC python3 poc, шаблон быстрого написания exp, существует много версий модели
--https://github.com/raminfp/linux_exploit_development руководство по разработке эксплойтов под linux
--https://github.com/mudongliang/LinuxFlaw содержит список уязвимостей программного обеспечения под Linux
--https://github.com/coffeehb/Some-PoC-oR-ExP Сбор или компиляция различных уязвимостей poc и Exp
--https://github.com/userlandkernel/plataoplomo Sem Voigtländer раскрывает различные уязвимости, обнаруженные в iOS, в том числе (Writeup / POC / Exploit)
--https://github.com/coffeehb/Some-PoC-oR-ExP/blob/master/check_icmp_dos.py CVE-2018-4407, переполнение буфера macos / ios может вызвать сбой системы
--https://github.com/vulnersCom/getsploit py2, имитирующий searchsploit для поиска полезных нагрузок через официальные интерфейсы различных баз данных
--https://github.com/SecWiki/CMS-Hunter Коллекция тестовых примеров уязвимостей CMS
--https://github.com/Mr5m1th/0day Уязвимости и опыт работы различных версий CMS с открытым исходным кодом
--https://github.com/Al1ex/Heptagram различные CMS с открытым исходным кодом, Windows, Linux, приложения, электронная почта и другие сборники и резюме EXP
--https://github.com/w1109790800/penetration CMS новая и старая версия exp и таблица сбора уязвимостей системы
--https://github.com/blacknbunny/libSSH-Authentication-Bypass CVE-2018-10933, обход аутентификации сервера libssh
--https://github.com/leapsecurity/libssh-scanner CVE-2018-10933, обход аутентификации сервера libssh
--https://github.com/anbai-inc/CVE-2018-4878 Adobe Flash Exploit генерирует полезную нагрузку.
--https://github.com/RetireJS/grunt-retire Сканирование распространенных уязвимостей в библиотеках расширений js.
--https://github.com/coffeehb/SSTIF Полуавтоматический инструмент для уязвимости серверной инъекции шаблонов
--https://github.com/tijme/angularjs-csti-scanner Инструмент для обнаружения уязвимостей внедрения шаблонов AngularJS на стороне клиента.
--https://github.com/blackye/Jenkins Обнаружение уязвимости Jenkins, сканирование пользователей.
--https://github.com/epinna/tplmap инструмент для обнаружения уязвимостей и использования шаблонов на стороне сервера.
--https://github.com/irsdl/IIS-ShortName-Scanner Java, инструмент перебора короткого имени файла IIS для перебора
--https://github.com/lijiejie/IIS_shortname_Scanner py2, сканирование уязвимостей коротких имен файлов IIS
--https://github.com/rudSarkar/crlf-injector CRLF-инъекция уязвимости пакетного сканирования
--https://github.com/hahwul/a2sv сканирование уязвимостей SSL, таких как уязвимость сердечного приступа и т. д.
--https://github.com/jagracey/Regex-DoS Сканер отказа в обслуживании RegEx
--https://github.com/Bo0oM/PHP_imap_open_exploit Используйте imap_open для обхода отключения функции php exec
--https://www.anquanke.com/post/id/106488 Использование вредоносной конфигурации сервера mysql для чтения файла клиента (как использовать ЛОКАЛЬНЫЙ ИНФИЛЬ MySQL для чтения файла клиента, чтение файла клиента MySQL, [Технический обмен] из контратаки MySQL )
--https://www.waitalone.cn/awvs-poc.html CVE-2015-4027, уязвимость выполнения команд AWVS10.
--http://an7isec.blogspot.com/2014/04/pown-noobs-acunetix-0day.html Pwn the n00bs-Acunetix 0day, уязвимость выполнения команд awvs8
--https://github.com/numpy/numpy/issues/12759 Фреймворк для научных вычислений, выполнение команды numpy, уязвимость RCE
--https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC удаленное выполнение команды jenkins
--https://github.com/WyAtu/CVE-2018-20250 Уязвимость выполнения WinRar и введение в использование
+- https://github.com/Lcys/Python_PoC python3 poc, шаблон быстрого написания exp, существует много версий модели
+- https://github.com/raminfp/linux_exploit_development руководство по разработке эксплойтов под linux
+- https://github.com/mudongliang/LinuxFlaw содержит список уязвимостей программного обеспечения под Linux
+- https://github.com/coffeehb/Some-PoC-oR-ExP Сбор или компиляция различных уязвимостей poc и Exp
+- https://github.com/userlandkernel/plataoplomo Sem Voigtländer раскрывает различные уязвимости, обнаруженные в iOS, в том числе (Writeup / POC / Exploit)
+- https://github.com/coffeehb/Some-PoC-oR-ExP/blob/master/check_icmp_dos.py CVE-2018-4407, переполнение буфера macos / ios может вызвать сбой системы
+- https://github.com/vulnersCom/getsploit py2, имитирующий searchsploit для поиска полезных нагрузок через официальные интерфейсы различных баз данных
+- https://github.com/SecWiki/CMS-Hunter Коллекция тестовых примеров уязвимостей CMS
+- https://github.com/Mr5m1th/0day Уязвимости и опыт работы различных версий CMS с открытым исходным кодом
+- https://github.com/Al1ex/Heptagram различные CMS с открытым исходным кодом, Windows, Linux, приложения, электронная почта и другие сборники и резюме EXP
+- https://github.com/w1109790800/penetration CMS новая и старая версия exp и таблица сбора уязвимостей системы
+- https://github.com/blacknbunny/libSSH-Authentication-Bypass CVE-2018-10933, обход аутентификации сервера libssh
+- https://github.com/leapsecurity/libssh-scanner CVE-2018-10933, обход аутентификации сервера libssh
+- https://github.com/anbai-inc/CVE-2018-4878 Adobe Flash Exploit генерирует полезную нагрузку.
+- https://github.com/RetireJS/grunt-retire Сканирование распространенных уязвимостей в библиотеках расширений js.
+- https://github.com/coffeehb/SSTIF Полуавтоматический инструмент для уязвимости серверной инъекции шаблонов
+- https://github.com/tijme/angularjs-csti-scanner Инструмент для обнаружения уязвимостей внедрения шаблонов AngularJS на стороне клиента.
+- https://github.com/blackye/Jenkins Обнаружение уязвимости Jenkins, сканирование пользователей.
+- https://github.com/epinna/tplmap инструмент для обнаружения уязвимостей и использования шаблонов на стороне сервера.
+- https://github.com/irsdl/IIS-ShortName-Scanner Java, инструмент перебора короткого имени файла IIS для перебора
+- https://github.com/lijiejie/IIS_shortname_Scanner py2, сканирование уязвимостей коротких имен файлов IIS
+- https://github.com/rudSarkar/crlf-injector CRLF-инъекция уязвимости пакетного сканирования
+- https://github.com/hahwul/a2sv сканирование уязвимостей SSL, таких как уязвимость сердечного приступа и т. д.
+- https://github.com/jagracey/Regex-DoS Сканер отказа в обслуживании RegEx
+- https://github.com/Bo0oM/PHP_imap_open_exploit Используйте imap_open для обхода отключения функции php exec
+- https://www.anquanke.com/post/id/106488 Использование вредоносной конфигурации сервера mysql для чтения файла клиента (как использовать ЛОКАЛЬНЫЙ ИНФИЛЬ MySQL для чтения файла клиента, чтение файла клиента MySQL, [Технический обмен] из контратаки MySQL )
+- https://www.waitalone.cn/awvs-poc.html CVE-2015-4027, уязвимость выполнения команд AWVS10.
+- http://an7isec.blogspot.com/2014/04/pown-noobs-acunetix-0day.html Pwn the n00bs-Acunetix 0day, уязвимость выполнения команд awvs8
+- https://github.com/numpy/numpy/issues/12759 Фреймворк для научных вычислений, выполнение команды numpy, уязвимость RCE
+- https://github.com/petercunha/Jenkins-PreAuth-RCE-PoC удаленное выполнение команды jenkins
+- https://github.com/WyAtu/CVE-2018-20250 Уязвимость выполнения WinRar и введение в использование
 
 #### Уязвимости JAVA
 
--https://github.com/brianwrf/hackUtils использование десериализации java
--https://github.com/GoSecure/break-fast-serial Использовать разрешение DNS для обнаружения инструмента уязвимости десериализации Java.
--https://github.com/s1kr10s/Apache-Struts-v3 Инструмент эксплойтов Apache-Struts
--https://github.com/iBearcat/S2-057 struts2 Инструмент обнаружения уязвимости CVE-2018-11776
--https://github.com/Ivan1ee/struts2-057-exp struts2-057 Сценарий
--https://github.com/theLSA/s2sniper struts2 средство обнаружения уязвимостей
--https://github.com/Lucifer1993/struts-scan пакетное обнаружение уязвимостей выполнения команд struts
--https://github.com/lijiejie/struts2_045_scan Struts2-045 Инструмент пакетного сканирования уязвимостей
--https://github.com/riusksk/StrutScan Сканирование исторических уязвимостей strut2 на основе Perl
--https://github.com/Coalfire-Research/java-deserialization-exploits коллекция уязвимостей десериализации Java
--https://github.com/quentinhardy/jndiat инструмент эксплойтов weblogic
--https://github.com/jas502n/CVE-2018-3191 Weblogic CVE-2018-3191 выполнение команды удаленного кода
--https://github.com/pyn3rd/CVE-2018-3245 weblogic cve-2018-2893 и cve-2018-3245 выполнение команды удаленного кода
--https://github.com/NickstaDB/BaRMIe Инструмент для службы удаленного вызова методов Java / перечисление rmi и удаленное выполнение команд
--https://github.com/joaomatosf/jexboss JBoss и другие инструменты для проверки и разработки уязвимостей сериализации Java
--https://github.com/frohoff/ysoserial инструмент десериализации Java
+- https://github.com/brianwrf/hackUtils использование десериализации java
+- https://github.com/GoSecure/break-fast-serial Использовать разрешение DNS для обнаружения инструмента уязвимости десериализации Java.
+- https://github.com/s1kr10s/Apache-Struts-v3 Инструмент эксплойтов Apache-Struts
+- https://github.com/iBearcat/S2-057 struts2 Инструмент обнаружения уязвимости CVE-2018-11776
+- https://github.com/Ivan1ee/struts2-057-exp struts2-057 Сценарий
+- https://github.com/theLSA/s2sniper struts2 средство обнаружения уязвимостей
+- https://github.com/Lucifer1993/struts-scan пакетное обнаружение уязвимостей выполнения команд struts
+- https://github.com/lijiejie/struts2_045_scan Struts2-045 Инструмент пакетного сканирования уязвимостей
+- https://github.com/riusksk/StrutScan Сканирование исторических уязвимостей strut2 на основе Perl
+- https://github.com/Coalfire-Research/java-deserialization-exploits коллекция уязвимостей десериализации Java
+- https://github.com/quentinhardy/jndiat инструмент эксплойтов weblogic
+- https://github.com/jas502n/CVE-2018-3191 Weblogic CVE-2018-3191 выполнение команды удаленного кода
+- https://github.com/pyn3rd/CVE-2018-3245 weblogic cve-2018-2893 и cve-2018-3245 выполнение команды удаленного кода
+- https://github.com/NickstaDB/BaRMIe Инструмент для службы удаленного вызова методов Java / перечисление rmi и удаленное выполнение команд
+- https://github.com/joaomatosf/jexboss JBoss и другие инструменты для проверки и разработки уязвимостей сериализации Java
+- https://github.com/frohoff/ysoserial инструмент десериализации Java
 
 #### Уязвимости Office
 
--https://github.com/Lz1y/CVE-2017-8759 Уязвимость разрыва строки .NET Framework, CVE-2017-8759 отлично воспроизводит (дополнительное решение для мигания маркеров кадра hta + powershell) https://www.freebuf .com / vuls / 147793.html
--https://github.com/WyAtu/CVE-2018-8581 Exchange использует завершение операции добавления правил приема для горизонтального проникновения и повышения привилегий
--https://github.com/dafthack/MailSniper PS, используется для поиска писем в среде Microsoft Exchange для поиска определенных писем (пароли, информация об архитектуре сети и т. д.)
--https://github.com/sensepost/ruler GO, удаленно взаимодействовать с сервером Exchange через протокол MAPI / HTTP или RPC / HTTP и получать оболочку удаленно через клиентскую функцию Outlook
--https://github.com/3gstudent/Smbtouch-Scanner Сканирование серии уязвимостей ETERNAL445SMB в интрасети Eternal Blue
--https://github.com/smgorelik/Windows-RCE-exploits команда Windows для выполнения образцов POC уязвимости RCE, разделенных на веб-формат и формат файлов
--https://github.com/3gstudent/CVE-2017-8464-EXP CVE-2017-8464, уязвимость удаленного выполнения ярлыка Win
--https://github.com/Lz1y/CVE-2018-8420 Уязвимость парсера Windows msxml может запускать бэкдор через ie или vbs
--https://www.anquanke.com/post/id/163000 Использование макроса Excel 4.0 для уклонения от анализа технологии атак с анти-программным обнаружением
--https://github.com/BuffaloWill/oxml_xxe XXE эксплойт
--https://thief.one/2017/06/20/1/ Говоря об атаке уязвимости XXE и защите
--https://github.com/thom-s/docx-embeddedhtml-injection word2016, злоупотребление функциями онлайн-видео Word для выполнения вредоносного кода poc
--https://blog.cymulate.com/abusing-microsoft-office-online-video word2016, введение в злоупотребление функциями онлайн-видео Word для выполнения вредоносного кода.
--https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads Вы можете использовать DDE для выполнения команд в текстовых документах без открытия макросов.
--http://www.freebuf.com/articles/terminal/150285.html Вы можете использовать DDE для выполнения команд в текстовых документах без открытия макросов
--https://github.com/Ridter/CVE-2017-11882 Используйте текстовый документ RTF для получения оболочки, https://evi1cg.me/archives/CVE_2017_11882_exp.html
--https://github.com/Lz1y/CVE-2017-8759 Используйте текстовый документ hta для получения оболочки, http://www.freebuf.com/vuls/147793.html
--https://fuping.site/2017/04/18/CVE-2017-0199 Процесс воспроизведения уязвимости Документ WORD RTF, сотрудничество с использованием msf
--https://github.com/tezukanice/Office8570 Использовать удаленное выполнение команд слайд-шоу ppsx, https://github.com/rxwx/CVE-2017-8570
--https://github.com/0x09AL/CVE-2018-8174-msf В настоящее время поддерживаются версии 32-битного браузера IE и 32-битного офиса. Веб-страница в сети, браузер закрыт, а оболочка все еще жива, http://www.freebuf.com/vuls/173727.html
--http://www.4hou.com/technology/9405.html Скрыть полезную нагрузку атаки в атрибутах документов Office
--https://evi1cg.me/archives/Create_PPSX.html Создать фишинговый файл PPSX
--https://github.com/enigma0x3/Generate-Macro PowerShell-скрипт для создания документов Microsoft Office, содержащих вредоносные макросы.
--https://github.com/mwrlabs/wePWNise Создание независимого от архитектуры кода VBA для документов или шаблонов Office и автоматический обход управления приложениями
--https://github.com/curi0usJack/luckystrike на основе ps, используется для создания вредоносных документов макросов Office.
--https://github.com/sevagas/macro_pack Документ MS Office, формат VBS, пакет полезной нагрузки ярлыка
--https://github.com/khr0x40sh/MacroShop Набор скриптов для передачи полезной нагрузки через макросы Office.
+- https://github.com/Lz1y/CVE-2017-8759 Уязвимость разрыва строки .NET Framework, CVE-2017-8759 отлично воспроизводит (дополнительное решение для мигания маркеров кадра hta + powershell) https://www.freebuf .com / vuls / 147793.html
+- https://github.com/WyAtu/CVE-2018-8581 Exchange использует завершение операции добавления правил приема для горизонтального проникновения и повышения привилегий
+- https://github.com/dafthack/MailSniper PS, используется для поиска писем в среде Microsoft Exchange для поиска определенных писем (пароли, информация об архитектуре сети и т. д.)
+- https://github.com/sensepost/ruler GO, удаленно взаимодействовать с сервером Exchange через протокол MAPI / HTTP или RPC / HTTP и получать оболочку удаленно через клиентскую функцию Outlook
+- https://github.com/3gstudent/Smbtouch-Scanner Сканирование серии уязвимостей ETERNAL445SMB в интрасети Eternal Blue
+- https://github.com/smgorelik/Windows-RCE-exploits команда Windows для выполнения образцов POC уязвимости RCE, разделенных на веб-формат и формат файлов
+- https://github.com/3gstudent/CVE-2017-8464-EXP CVE-2017-8464, уязвимость удаленного выполнения ярлыка Win
+- https://github.com/Lz1y/CVE-2018-8420 Уязвимость парсера Windows msxml может запускать бэкдор через ie или vbs
+- https://www.anquanke.com/post/id/163000 Использование макроса Excel 4.0 для уклонения от анализа технологии атак с анти-программным обнаружением
+- https://github.com/BuffaloWill/oxml_xxe XXE эксплойт
+- https://thief.one/2017/06/20/1/ Говоря об атаке уязвимости XXE и защите
+- https://github.com/thom-s/docx-embeddedhtml-injection word2016, злоупотребление функциями онлайн-видео Word для выполнения вредоносного кода poc
+- https://blog.cymulate.com/abusing-microsoft-office-online-video word2016, введение в злоупотребление функциями онлайн-видео Word для выполнения вредоносного кода.
+- https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads Вы можете использовать DDE для выполнения команд в текстовых документах без открытия макросов.
+- http://www.freebuf.com/articles/terminal/150285.html Вы можете использовать DDE для выполнения команд в текстовых документах без открытия макросов
+- https://github.com/Ridter/CVE-2017-11882 Используйте текстовый документ RTF для получения оболочки, https://evi1cg.me/archives/CVE_2017_11882_exp.html
+- https://github.com/Lz1y/CVE-2017-8759 Используйте текстовый документ hta для получения оболочки, http://www.freebuf.com/vuls/147793.html
+- https://fuping.site/2017/04/18/CVE-2017-0199 Процесс воспроизведения уязвимости Документ WORD RTF, сотрудничество с использованием msf
+- https://github.com/tezukanice/Office8570 Использовать удаленное выполнение команд слайд-шоу ppsx, https://github.com/rxwx/CVE-2017-8570
+- https://github.com/0x09AL/CVE-2018-8174-msf В настоящее время поддерживаются версии 32-битного браузера IE и 32-битного офиса. Веб-страница в сети, браузер закрыт, а оболочка все еще жива, http://www.freebuf.com/vuls/173727.html
+- http://www.4hou.com/technology/9405.html Скрыть полезную нагрузку атаки в атрибутах документов Office
+- https://evi1cg.me/archives/Create_PPSX.html Создать фишинговый файл PPSX
+- https://github.com/enigma0x3/Generate-Macro PowerShell-скрипт для создания документов Microsoft Office, содержащих вредоносные макросы.
+- https://github.com/mwrlabs/wePWNise Создание независимого от архитектуры кода VBA для документов или шаблонов Office и автоматический обход управления приложениями
+- https://github.com/curi0usJack/luckystrike на основе ps, используется для создания вредоносных документов макросов Office.
+- https://github.com/sevagas/macro_pack Документ MS Office, формат VBS, пакет полезной нагрузки ярлыка
+- https://github.com/khr0x40sh/MacroShop Набор скриптов для передачи полезной нагрузки через макросы Office.
 
 #### Другие уязвимости
 
--https://github.com/shengqi158/svnhack .svn инструмент для эксплуатации утечки папок
--https://www.waitalone.cn/seay-svn-poc-donw-20140505.html Инструмент эксплойта утечки исходного кода Seay-Svn, версия 05.05.2014
--https://github.com/BugScanTeam/GitHack Инструмент использования файлов .git, улучшенная версия lijiejie
--https://github.com/lijiejie/GitHack Инструмент использования файлов .git
+- https://github.com/shengqi158/svnhack .svn инструмент для эксплуатации утечки папок
+- https://www.waitalone.cn/seay-svn-poc-donw-20140505.html Инструмент эксплойта утечки исходного кода Seay-Svn, версия 05.05.2014
+- https://github.com/BugScanTeam/GitHack Инструмент использования файлов .git, улучшенная версия lijiejie
+- https://github.com/lijiejie/GitHack Инструмент использования файлов .git
 
 #### Shell Management
 
--[http://www.bt.cn](http://www.bt.cn/) Система управления сайтом Pagoda
--https://github.com/AntSwordProject/antSword js, китайский Ant Sword, разработка плагинов
--https://github.com/Chora10/Cknife java, китайский кухонный нож
+- [http://www.bt.cn](http://www.bt.cn/) Система управления сайтом Pagoda
+- https://github.com/AntSwordProject/antSword js, китайский Ant Sword, разработка плагинов
+- https://github.com/Chora10/Cknife java, китайский кухонный нож
 -https://github.com/naozibuhao/SecQuanCknife java, обновленная версия китайского кухонного ножа, с добавлением функции взрыва.
--https://github.com/euphrat1ca/hatchet Китайский мачете
--https://github.com/tengzhangchao/PyCmd py, клиентская программа троянского коня, состоящая из одного предложения, в настоящее время поддерживает шифрование связи на стороне php, jsp и CS.
--https://github.com/epinna/weevely3 py, используйте специальный скрипт из одного предложения для управления сайтом
--https://github.com/nil0x42/phpsploit py3, используйте специальный скрипт из одного предложения для управления сайтом
--https://github.com/wonderqs/Blade py, используйте специальный скрипт из одного предложения для управления сайтом
--https://github.com/anestisb/WeBaCoo perl, используйте специальный скрипт из одного предложения для управления сайтом
--https://github.com/keepwn/Altman.net, кроссплатформенный кухонный нож, реализованный с моно
--https://github.com/k4mpr3t/b4tm4n интегрированные поддельные почтовые ddos, веб-оболочка bat.php, начальный k4mpr3t
--https://github.com/dotcppfile/DAws через веб-оболочку брандмауэра, post pass = DAws
--https://github.com/b374k/b374k Управление веб-сайтом на PHP, пароль по умолчанию - b374k
--https://github.com/wso-shell/WSO управление файлами веб-оболочки, которое может быть замаскировано под интерфейс 404
--https://github.com/UltimateHackers/nano php pony с генератором, написанным py
--https://github.com/rebeyond/memShell Веб-оболочка, которая может быть записана в память веб-сервера Java.
--https://github.com/DXkite/freebuf-stream-shell PHP использует оболочку потока для реализации WebShell. На freebuf есть подробные статьи
--https://xz.aliyun.com/t/2799 Использование динамического двоичного шифрования для реализации нового троянского клиента, состоящего из одного предложения.
--https://github.com/rebeyond/Behinder Клиент управления веб-сайтом с динамическим двоичным шифрованием "Bing Scorpion"
--https://xz.aliyun.com/t/2744#toc-8 Использование динамического двоичного шифрования для реализации нового трояна из одного предложения: Java
--https://xz.aliyun.com/t/2758#toc-4 Использование динамического двоичного шифрования для реализации новой статьи Trojan: .NET, состоящей из одного предложения.
--https://xz.aliyun.com/t/2774#toc-4 Используйте динамическое двоичное шифрование для реализации нового трояна из одного предложения: PHP
+- https://github.com/euphrat1ca/hatchet Китайский мачете
+- https://github.com/tengzhangchao/PyCmd py, клиентская программа троянского коня, состоящая из одного предложения, в настоящее время поддерживает шифрование связи на стороне php, jsp и CS.
+- https://github.com/epinna/weevely3 py, используйте специальный скрипт из одного предложения для управления сайтом
+- https://github.com/nil0x42/phpsploit py3, используйте специальный скрипт из одного предложения для управления сайтом
+- https://github.com/wonderqs/Blade py, используйте специальный скрипт из одного предложения для управления сайтом
+- https://github.com/anestisb/WeBaCoo perl, используйте специальный скрипт из одного предложения для управления сайтом
+- https://github.com/keepwn/Altman.net, кроссплатформенный кухонный нож, реализованный с моно
+- https://github.com/k4mpr3t/b4tm4n интегрированные поддельные почтовые ddos, веб-оболочка bat.php, начальный k4mpr3t
+- https://github.com/dotcppfile/DAws через веб-оболочку брандмауэра, post pass = DAws
+- https://github.com/b374k/b374k Управление веб-сайтом на PHP, пароль по умолчанию - b374k
+- https://github.com/wso-shell/WSO управление файлами веб-оболочки, которое может быть замаскировано под интерфейс 404
+- https://github.com/UltimateHackers/nano php pony с генератором, написанным py
+- https://github.com/rebeyond/memShell Веб-оболочка, которая может быть записана в память веб-сервера Java.
+- https://github.com/DXkite/freebuf-stream-shell PHP использует оболочку потока для реализации WebShell. На freebuf есть подробные статьи
+- https://xz.aliyun.com/t/2799 Использование динамического двоичного шифрования для реализации нового троянского клиента, состоящего из одного предложения.
+- https://github.com/rebeyond/Behinder Клиент управления веб-сайтом с динамическим двоичным шифрованием "Bing Scorpion"
+- https://xz.aliyun.com/t/2744#toc-8 Использование динамического двоичного шифрования для реализации нового трояна из одного предложения: Java
+- https://xz.aliyun.com/t/2758#toc-4 Использование динамического двоичного шифрования для реализации новой статьи Trojan: .NET, состоящей из одного предложения.
+- https://xz.aliyun.com/t/2774#toc-4 Используйте динамическое двоичное шифрование для реализации нового трояна из одного предложения: PHP
 
 ## Анализ угроз
 
--[https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org/leaks.php，https:// archive.org/search.php?query=une(https://www.databases.today%2Chttps//publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org) /leaks.php，https://archive.org/search.php?query=) 密码 泄露
--https://www.threatcrowd.org/ Платформа анализа данных об угрозах
--https://x.threatbook.cn/ Weibu Online | Платформа анализа данных об угрозах-ThreatBook-Многоточечное онлайн-сканирование, обнаружение вредоносных программ в Интернете
--https://github.com/needmorecowbell/sniff-paste Инструмент для сбора информации с открытым исходным кодом для Pastebin
--https://talosintelligence.com/documents/ip-blacklist Вредоносный IP-адрес
--https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt IP-адрес вредоносного ПО
--https://check.torproject.org/cgi-bin/TorBulkExitList.py? ip = 1.1.1.1 Выходной узел луковой маршрутизации
--https://isc.sans.edu/api/threatlist/shodan shodan Узел сканера Satan
--https://github.com/Te-k/harpoon Инструмент командной строки с открытым исходным кодом и анализ угроз.
--https://trumail.io/ Проверяет, является ли почтовый ящик другой стороны спамом, и может проверяться 1000 раз в месяц бесплатно
--https://github.com/ChrisJohnRiley/Scythe проверьте, является ли учетная запись общей.
--https://github.com/fireeye/GeoLogonalyzer инструмент для удаленной проверки подлинности и анализа географического местоположения, используемый для различения легитимных и злонамеренных входов.
--https://github.com/target/strelka py3, посредством сканирования файлов в реальном времени для анализа угроз и мониторинга в реальном времени.
+- [https://www.databases.today，https://publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org/leaks.php，https:// archive.org/search.php?query=une(https://www.databases.today%2Chttps//publicdbhost.dmca.gripe/，http://www.wttech.org/，https://hashes.org) /leaks.php，https://archive.org/search.php?query=) 密码 泄露
+- https://www.threatcrowd.org/ Платформа анализа данных об угрозах
+- https://x.threatbook.cn/ Weibu Online | Платформа анализа данных об угрозах-ThreatBook-Многоточечное онлайн-сканирование, обнаружение вредоносных программ в Интернете
+- https://github.com/needmorecowbell/sniff-paste Инструмент для сбора информации с открытым исходным кодом для Pastebin
+- https://talosintelligence.com/documents/ip-blacklist Вредоносный IP-адрес
+- https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt IP-адрес вредоносного ПО
+- https://check.torproject.org/cgi-bin/TorBulkExitList.py? ip = 1.1.1.1 Выходной узел луковой маршрутизации
+- https://isc.sans.edu/api/threatlist/shodan shodan Узел сканера Satan
+- https://github.com/Te-k/harpoon Инструмент командной строки с открытым исходным кодом и анализ угроз.
+- https://trumail.io/ Проверяет, является ли почтовый ящик другой стороны спамом, и может проверяться 1000 раз в месяц бесплатно
+- https://github.com/ChrisJohnRiley/Scythe проверьте, является ли учетная запись общей.
+- https://github.com/fireeye/GeoLogonalyzer инструмент для удаленной проверки подлинности и анализа географического местоположения, используемый для различения легитимных и злонамеренных входов.
+- https://github.com/target/strelka py3, посредством сканирования файлов в реальном времени для анализа угроз и мониторинга в реальном времени.
 
 ## Инструменты безопасности
 
 #### Коллекция инструментов
 
--http://www.4hou.com/web/11241.html Самый полный перечень инструментов моделирования атак в истории
--https://github.com/infosecn1nja/Red-Teaming-Toolkit сбор информации, попытки атаки для получения разрешений, контроль сохраняемости, эскалация разрешений, сбор сетевой информации, боковое перемещение, анализ данных (на этой основе, контроль сохраняемости), очистить следы
--https://github.com/toolswatch/blackhat-arsenal-tools Набор инструментов Black Hat Conference
--https://www.cnblogs.com/k8gege Коллекция наборов инструментов Brother K8. Разархивируйте пароль Kk8team, Kk8gege
--https://github.com/n00py/ReadingList/blob/master/gunsafe.txt Набор инструментов безопасности
--https://github.com/Ridter/Pentest набор инструментов безопасности
--https://github.com/redcanaryco/atomic-red-team win, linux, mac и другие аспекты подходящих методов использования, технологий и наборов инструментов.
--https://github.com/Cooolis/Cooolis.github.io Cooolis - это меморандум о навыках управления операционной системой, [https://cooolis.payloads.online](https://cooolis.payloads.online/)
--https://github.com/LOLBAS-Project/LOLBAS Коллекция скриптов и двоичных файлов, используемых в общих тестах на проникновение.
--https://www.owasp.org/index.php/ Файл: CSRFTester-1.0.zip инструмент проверки csrf
--https://github.com/ufrisk/MemProcFS для доступа к физической памяти путем доступа к файловой системе, доступной для чтения и записи, с простым в использовании интерфейсом. В настоящее время поддерживает Windows
--https://github.com/vletoux/SpoolerScanner инструмент для определения, включена ли служба удаленного принтера Windows.
--https://github.com/sirpsycho/firecall отправляет команды непосредственно на межсетевой экран CiscoASA, нет необходимости входить в межсетевой экран для внесения изменений
--https://github.com/jboss-javassist/javassist может управлять фреймворком байт-кода, с помощью которого мы можем легко изменять файлы кода класса
--https://github.com/ConsenSys/mythril-classic Инструмент анализа безопасности для интеллектуального протокола Ethereum.
--https://github.com/a13xp0p0v/kconfig-hardened-check Сценарий, используемый для проверки параметров повышенной безопасности в конфигурации ядра Linux.
--https://github.com/lionsoul2014/ip2region библиотека расположения IP-адресов, поддерживающая несколько интерфейсов, таких как python3. Аналоговый geoip
--https://github.com/m101/hsploit программа эксплойтов HEVD на основе ржавчины
--https://github.com/ticarpi/jwt_tool для обнаружения веб-токенов json
--https://github.com/clr2of8/DPAT аудит конфигурации пароля домена
--https://github.com/chenjj/CORScanner уязвимость разрешения домена, междоменный сканер
--https://github.com/dienuet/crossdomain уязвимость разрешения домена, междоменный сканер
--https://github.com/sfan5/fi6s быстрый сканер портов ipv6
--https://github.com/lavalamp-/ipv666 go, сканирование перечисления адресов ipv6
--https://github.com/commixproject/commix сканирование уязвимостей инъекции команд
--https://github.com/Graph-X/davscan DAVScan - это быстрый и легкий сканер webdav, предназначенный для обнаружения скрытых файлов и папок на веб-серверах с поддержкой DAV.
--https://github.com/jcesarstef/dotdotslash тест уязвимости обхода каталога
--https://github.com/P3GLEG/WhaleTail создает файл докера на основе образа докера
--https://github.com/cr0hn/dockerscan инструмент сканирования докеров
--https://github.com/utiso/dorkbot Поиск и сканирование страниц с уязвимостями с помощью настраиваемой поисковой системы Google.
--https://github.com/NullArray/DorkNet Веб-поиск уязвимостей на основе поисковой системы
--https://github.com/panda-re/lava Внедрение вредоносных программ в программы в больших масштабах
--https://github.com/woj-ciech/Danger-zone Свяжите данные между доменными именами, IP-адресами и адресами электронной почты и выведите их визуально
--https://github.com/securemode/DefenderKeys перечисляет конфигурации, исключенные из сканирования Защитником Windows
--https://github.com/D4Vinci/PasteJacker Инструмент для захвата буфера обмена
--https://github.com/JusticeRage/freedomfighting очистка журнала, совместное использование файлов, обратная оболочка, простой инструментарий сканера
--https://github.com/gh0stkey/PoCBox Вспомогательная платформа для проверки уязвимостей, захват SONP, CORS, чтение междоменных ресурсов Flash, генерация синтаксиса Google Hack, генерация тестового словаря URL, перенаправление URL JavaScript, перенаправление 302 URL
--https://github.com/jakubroztocil/httpie инструмент отладки http, похожий на curl, с лучшими функциями
--https://www.getpostman.com/ инструмент отладки http с интерфейсом
+- http://www.4hou.com/web/11241.html Самый полный перечень инструментов моделирования атак в истории
+- https://github.com/infosecn1nja/Red-Teaming-Toolkit сбор информации, попытки атаки для получения разрешений, контроль сохраняемости, эскалация разрешений, сбор сетевой информации, боковое перемещение, анализ данных (на этой основе, контроль сохраняемости), очистить следы
+- https://github.com/toolswatch/blackhat-arsenal-tools Набор инструментов Black Hat Conference
+- https://www.cnblogs.com/k8gege Коллекция наборов инструментов Brother K8. Разархивируйте пароль Kk8team, Kk8gege
+- https://github.com/n00py/ReadingList/blob/master/gunsafe.txt Набор инструментов безопасности
+- https://github.com/Ridter/Pentest набор инструментов безопасности
+- https://github.com/redcanaryco/atomic-red-team win, linux, mac и другие аспекты подходящих методов использования, технологий и наборов инструментов.
+- https://github.com/Cooolis/Cooolis.github.io Cooolis - это меморандум о навыках управления операционной системой, [https://cooolis.payloads.online](https://cooolis.payloads.online/)
+- https://github.com/LOLBAS-Project/LOLBAS Коллекция скриптов и двоичных файлов, используемых в общих тестах на проникновение.
+- https://www.owasp.org/index.php/ Файл: CSRFTester-1.0.zip инструмент проверки csrf
+- https://github.com/ufrisk/MemProcFS для доступа к физической памяти путем доступа к файловой системе, доступной для чтения и записи, с простым в использовании интерфейсом. В настоящее время поддерживает Windows
+- https://github.com/vletoux/SpoolerScanner инструмент для определения, включена ли служба удаленного принтера Windows.
+- https://github.com/sirpsycho/firecall отправляет команды непосредственно на межсетевой экран CiscoASA, нет необходимости входить в межсетевой экран для внесения изменений
+- https://github.com/jboss-javassist/javassist может управлять фреймворком байт-кода, с помощью которого мы можем легко изменять файлы кода класса
+- https://github.com/ConsenSys/mythril-classic Инструмент анализа безопасности для интеллектуального протокола Ethereum.
+- https://github.com/a13xp0p0v/kconfig-hardened-check Сценарий, используемый для проверки параметров повышенной безопасности в конфигурации ядра Linux.
+- https://github.com/lionsoul2014/ip2region библиотека расположения IP-адресов, поддерживающая несколько интерфейсов, таких как python3. Аналоговый geoip
+- https://github.com/m101/hsploit программа эксплойтов HEVD на основе ржавчины
+- https://github.com/ticarpi/jwt_tool для обнаружения веб-токенов json
+- https://github.com/clr2of8/DPAT аудит конфигурации пароля домена
+- https://github.com/chenjj/CORScanner уязвимость разрешения домена, междоменный сканер
+- https://github.com/dienuet/crossdomain уязвимость разрешения домена, междоменный сканер
+- https://github.com/sfan5/fi6s быстрый сканер портов ipv6
+- https://github.com/lavalamp-/ipv666 go, сканирование перечисления адресов ipv6
+- https://github.com/commixproject/commix сканирование уязвимостей инъекции команд
+- https://github.com/Graph-X/davscan DAVScan - это быстрый и легкий сканер webdav, предназначенный для обнаружения скрытых файлов и папок на веб-серверах с поддержкой DAV.
+- https://github.com/jcesarstef/dotdotslash тест уязвимости обхода каталога
+- https://github.com/P3GLEG/WhaleTail создает файл докера на основе образа докера
+- https://github.com/cr0hn/dockerscan инструмент сканирования докеров
+- https://github.com/utiso/dorkbot Поиск и сканирование страниц с уязвимостями с помощью настраиваемой поисковой системы Google.
+- https://github.com/NullArray/DorkNet Веб-поиск уязвимостей на основе поисковой системы
+- https://github.com/panda-re/lava Внедрение вредоносных программ в программы в больших масштабах
+- https://github.com/woj-ciech/Danger-zone Свяжите данные между доменными именами, IP-адресами и адресами электронной почты и выведите их визуально
+- https://github.com/securemode/DefenderKeys перечисляет конфигурации, исключенные из сканирования Защитником Windows
+- https://github.com/D4Vinci/PasteJacker Инструмент для захвата буфера обмена
+- https://github.com/JusticeRage/freedomfighting очистка журнала, совместное использование файлов, обратная оболочка, простой инструментарий сканера
+- https://github.com/gh0stkey/PoCBox Вспомогательная платформа для проверки уязвимостей, захват SONP, CORS, чтение междоменных ресурсов Flash, генерация синтаксиса Google Hack, генерация тестового словаря URL, перенаправление URL JavaScript, перенаправление 302 URL
+- https://github.com/jakubroztocil/httpie инструмент отладки http, похожий на curl, с лучшими функциями
+- https://www.getpostman.com/ инструмент отладки http с интерфейсом
 
 #### Другие инструменты
 
