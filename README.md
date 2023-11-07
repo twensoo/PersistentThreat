@@ -1,14 +1,4 @@
-# PersistentThreat
-RedTeam link
-
-### [cheatsheet-references](https://michmich.eu/Cheatsheets/cheatsheet-references/)
-### [A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries)
-### [RED-t-tools](https://github.com/lengjibo/RedTeamTools/tree/master/windows)
-### [SHEET_1](https://0xsp.com/)   
-### [SHEET_2](https://github.com/infosecn1nja/AD-Attack-Defense)
-### [SHEET_3](https://github.com/rmusser01/Infosec_Reference/tree/master/Draft)
-### [SHEET_4](https://github.com/th1k/ebooks)
-### [SHEET_5](https://sushant747.gitbooks.io/total-oscp-guide/content/)
+# twensoo diary
 
 ________________________________________________________________________________________________
 
